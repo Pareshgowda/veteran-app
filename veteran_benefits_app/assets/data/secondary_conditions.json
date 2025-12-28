@@ -1,0 +1,883 @@
+[
+  {
+    "id": "ptsd",
+    "name": "PTSD (Post-Traumatic Stress Disorder)",
+    "category": "Mental Health",
+    "ratingRange": "0-100%",
+    "shortDescription": "Mental health condition resulting from traumatic military experiences",
+    "fullDescription": "PTSD is a mental health condition triggered by experiencing or witnessing a terrifying event during military service. Common symptoms include intrusive memories, flashbacks, nightmares, severe anxiety, emotional numbness, and uncontrollable thoughts about traumatic events. Veterans may experience hypervigilance, avoidance of triggers, negative changes in thinking and mood, and changes in physical and emotional reactions. PTSD can significantly impact relationships, work performance, and overall quality of life.",
+    "evidenceNeeded": [
+      "VA Form 21-0781 (Statement in Support of Claim for Service Connection for PTSD)",
+      "Current diagnosis from licensed psychiatrist or psychologist",
+      "Service treatment records documenting stressor event(s)",
+      "Buddy statements from fellow service members describing witnessed events or behavior changes",
+      "Personal statement describing traumatic events and current symptoms",
+      "Records of any in-service mental health treatment",
+      "Lay statements from family members about behavioral changes since service"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "panic_disorder", "insomnia", "migraine", "ibs", "erectile_dysfunction", "substance_abuse"]
+  },
+  {
+    "id": "major_depression",
+    "name": "Major Depressive Disorder (MDD)",
+    "category": "Mental Health",
+    "ratingRange": "0-100%",
+    "shortDescription": "Persistent feelings of sadness, hopelessness, and loss of interest in activities",
+    "fullDescription": "Major Depressive Disorder is characterized by persistent and intense feelings of sadness, hopelessness, worthlessness, and loss of interest in activities once enjoyed. Symptoms include changes in sleep patterns (insomnia or hypersomnia), appetite changes, fatigue, difficulty concentrating, psychomotor agitation or retardation, feelings of guilt, and recurrent thoughts of death or suicide. MDD significantly impairs daily functioning, work performance, and interpersonal relationships. Can be service-connected directly or secondary to other conditions like PTSD or chronic pain.",
+    "evidenceNeeded": [
+      "Current diagnosis from psychiatrist or psychologist using DSM-5 criteria",
+      "Medical records showing treatment history and medication trials",
+      "Nexus letter connecting depression to service or service-connected condition",
+      "Personal statement describing onset, duration, and severity of symptoms",
+      "Buddy statements from family or friends observing mood changes",
+      "Employment records showing impact on work performance",
+      "Documentation of any hospitalizations or suicide attempts"
+    ],
+    "secondaryConditions": ["anxiety", "insomnia", "substance_abuse", "erectile_dysfunction", "weight_gain", "ibs"]
+  },
+  {
+    "id": "anxiety",
+    "name": "Generalized Anxiety Disorder (GAD)",
+    "category": "Mental Health",
+    "ratingRange": "0-100%",
+    "shortDescription": "Excessive worry and anxiety about various aspects of daily life",
+    "fullDescription": "Generalized Anxiety Disorder involves persistent and excessive worry about various aspects of daily life that is difficult to control. Symptoms include restlessness, feeling on edge or keyed up, easy fatigability, difficulty concentrating or mind going blank, irritability, muscle tension, and sleep disturbances. The anxiety causes clinically significant distress or impairment in social, occupational, or other important areas of functioning. Often co-occurs with or secondary to PTSD, depression, or chronic physical conditions.",
+    "evidenceNeeded": [
+      "Diagnosis from mental health professional using DSM-5 criteria",
+      "Treatment records showing ongoing symptoms and interventions",
+      "Nexus letter linking anxiety to military service or service-connected condition",
+      "Documentation of functional impairment in work and daily activities",
+      "Personal statement describing anxiety symptoms and triggers",
+      "Records of medications and therapy for anxiety",
+      "Lay statements from family about observable anxiety symptoms"
+    ],
+    "secondaryConditions": ["panic_disorder", "insomnia", "ibs", "migraine", "hypertension"]
+  },
+  {
+    "id": "panic_disorder",
+    "name": "Panic Disorder",
+    "category": "Mental Health",
+    "ratingRange": "0-100%",
+    "shortDescription": "Recurrent unexpected panic attacks and persistent worry about future attacks",
+    "fullDescription": "Panic Disorder is characterized by recurrent, unexpected panic attacks—sudden periods of intense fear or discomfort that reach a peak within minutes. Symptoms include palpitations, sweating, trembling, shortness of breath, chest pain, nausea, dizziness, chills or heat sensations, numbness, derealization, fear of losing control, and fear of dying. Individuals develop persistent concern about additional attacks and may significantly change behavior to avoid situations that might trigger attacks. Often secondary to PTSD or other anxiety disorders.",
+    "evidenceNeeded": [
+      "Diagnosis from mental health professional",
+      "Documentation of panic attack frequency and severity",
+      "Treatment records including medications (SSRIs, benzodiazepines)",
+      "Nexus letter connecting to service or service-connected condition",
+      "Personal statement describing panic attacks and avoidance behaviors",
+      "Emergency room records if applicable",
+      "Functional impact assessment"
+    ],
+    "secondaryConditions": ["agoraphobia", "major_depression", "substance_abuse"]
+  },
+  {
+    "id": "insomnia",
+    "name": "Insomnia and Sleep Disorders",
+    "category": "Mental Health",
+    "ratingRange": "0-50%",
+    "shortDescription": "Difficulty falling asleep, staying asleep, or non-restorative sleep",
+    "fullDescription": "Chronic insomnia and sleep disorders involve persistent difficulty initiating sleep, maintaining sleep, or experiencing non-restorative sleep despite adequate opportunity for sleep. This results in significant daytime impairment including fatigue, mood disturbances, cognitive impairment, and reduced functioning. Very common in veterans with PTSD, depression, anxiety, chronic pain, or TBI. May involve nightmares, night sweats, hypervigilance preventing sleep, or disrupted sleep architecture.",
+    "evidenceNeeded": [
+      "Sleep study (polysomnography) results if available",
+      "Mental health or primary care records documenting sleep complaints",
+      "Nexus letter connecting sleep issues to service-connected condition",
+      "Personal statement describing sleep patterns, duration, and quality",
+      "Spouse/partner statement about observed sleep disturbances",
+      "Records of sleep medications tried",
+      "Sleep diary or log if maintained"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "hypertension", "weight_gain", "cognitive_impairment"]
+  },
+  {
+    "id": "substance_abuse",
+    "name": "Substance Use Disorder",
+    "category": "Mental Health",
+    "ratingRange": "0-100%",
+    "shortDescription": "Problematic pattern of substance use leading to impairment or distress",
+    "fullDescription": "Substance Use Disorder involves a problematic pattern of alcohol or drug use leading to clinically significant impairment or distress. Common in veterans as self-medication for PTSD, depression, anxiety, or chronic pain. Symptoms include inability to cut down, spending significant time obtaining or using substances, cravings, failure to fulfill obligations, continued use despite problems, tolerance, and withdrawal. Can be service-connected if secondary to service-connected mental health or pain conditions.",
+    "evidenceNeeded": [
+      "Diagnosis from addiction specialist or mental health professional",
+      "Treatment records from rehabilitation programs or AA/NA",
+      "Nexus letter explaining substance use as self-medication for service-connected condition",
+      "Personal statement describing onset and progression of substance use",
+      "Medical records documenting substance-related health issues",
+      "Employment or legal records showing impact",
+      "Family statements about substance use patterns"
+    ],
+    "secondaryConditions": ["liver_disease", "pancreatitis", "neuropathy", "major_depression"]
+  },
+  {
+    "id": "tinnitus",
+    "name": "Tinnitus",
+    "category": "Neurological",
+    "ratingRange": "10%",
+    "shortDescription": "Persistent ringing, buzzing, or noise in the ears",
+    "fullDescription": "Tinnitus is the perception of noise or ringing in the ears when no external sound is present. Extremely common in veterans due to noise exposure from weapons fire, aircraft, machinery, explosions, and other military equipment. The sound can be ringing, buzzing, roaring, clicking, or hissing. Severity ranges from mild annoyance to severe disruption of daily activities, sleep, and concentration. Tinnitus is rated at a flat 10% but can contribute to overall mental health impairment when it causes or worsens insomnia, anxiety, or depression.",
+    "evidenceNeeded": [
+      "Audiologist examination and diagnosis",
+      "Audiogram results showing hearing loss pattern",
+      "Service records documenting noise exposure (MOS, weapons, aircraft, etc.)",
+      "Personal statement describing tinnitus onset, character, and impact",
+      "Buddy statements if tinnitus began in service",
+      "Records of hearing protection use or lack thereof",
+      "Documentation of sleep disruption or concentration issues"
+    ],
+    "secondaryConditions": ["insomnia", "anxiety", "major_depression", "hearing_loss"]
+  },
+  {
+    "id": "hearing_loss",
+    "name": "Hearing Loss (Sensorineural)",
+    "category": "Neurological",
+    "ratingRange": "0-100%",
+    "shortDescription": "Permanent hearing damage from noise exposure or injury",
+    "fullDescription": "Sensorineural hearing loss results from damage to the inner ear (cochlea) or auditory nerve, commonly from noise exposure in military service. Symptoms include difficulty understanding speech especially in noisy environments, asking people to repeat themselves, needing to increase TV/radio volume, and muffled sound perception. Rating is based on puretone threshold average and speech discrimination scores. Often occurs alongside tinnitus. Bilateral hearing loss (both ears) is rated separately from tinnitus.",
+    "evidenceNeeded": [
+      "Comprehensive audiological examination",
+      "Pure-tone audiometry results",
+      "Speech discrimination testing",
+      "Service records showing noise exposure",
+      "Documentation of MOS and equipment used",
+      "Personal statement on onset and progression",
+      "Records of any in-service hearing tests"
+    ],
+    "secondaryConditions": ["tinnitus", "social_isolation", "depression", "cognitive_impairment"]
+  },
+  {
+    "id": "migraine",
+    "name": "Migraine Headaches",
+    "category": "Neurological",
+    "ratingRange": "0-50%",
+    "shortDescription": "Severe recurring headaches with neurological symptoms",
+    "fullDescription": "Migraines are intense, debilitating headaches often characterized by throbbing pain on one side of the head, accompanied by nausea, vomiting, and extreme sensitivity to light and sound. May include visual disturbances (aura), numbness, tingling, or difficulty speaking. Episodes can last 4-72 hours and significantly impair daily functioning. Common in veterans due to TBI, PTSD, cervical spine injuries, or as a secondary condition to mental health disorders. Rating based on frequency and severity of prostrating attacks.",
+    "evidenceNeeded": [
+      "Neurologist diagnosis and examination",
+      "Headache diary documenting frequency, duration, and severity",
+      "Treatment records showing medications tried (triptans, preventatives)",
+      "Nexus letter if claiming as secondary to TBI, PTSD, or cervical condition",
+      "Personal statement describing headache patterns and triggers",
+      "ER records for severe migraine attacks",
+      "Documentation of work time lost due to migraines"
+    ],
+    "secondaryConditions": ["insomnia", "major_depression", "anxiety"]
+  },
+  {
+    "id": "tbi",
+    "name": "Traumatic Brain Injury (TBI)",
+    "category": "Neurological",
+    "ratingRange": "0-100%",
+    "shortDescription": "Brain injury from blast exposure, impact, or concussion",
+    "fullDescription": "Traumatic Brain Injury results from blast exposure, impact to the head, or violent shaking during military service. Symptoms vary by severity and can include headaches, dizziness, memory problems, difficulty concentrating, mood changes, sleep disturbances, sensitivity to light/noise, balance problems, and cognitive impairment. Even mild TBI (concussion) can have lasting effects. TBI is rated under residual symptoms including cognitive impairment, emotional/behavioral changes, and neurological deficits. Common source of multiple secondary conditions.",
+    "evidenceNeeded": [
+      "Neuropsychological evaluation results",
+      "CT or MRI brain imaging if available",
+      "Service medical records documenting head injury or blast exposure",
+      "Buddy statements describing injury event",
+      "VA TBI screening results",
+      "Cognitive testing results",
+      "Personal statement on symptoms and functional limitations",
+      "Records of in-service loss of consciousness or altered mental state"
+    ],
+    "secondaryConditions": ["migraine", "cognitive_impairment", "ptsd", "major_depression", "anxiety", "insomnia", "dizziness", "vestibular_disorder"]
+  },
+  {
+    "id": "cognitive_impairment",
+    "name": "Cognitive Impairment/Memory Loss",
+    "category": "Neurological",
+    "ratingRange": "0-100%",
+    "shortDescription": "Difficulty with memory, concentration, and cognitive processing",
+    "fullDescription": "Cognitive impairment involves deficits in memory, attention, concentration, executive function, processing speed, or other cognitive domains. Can result from TBI, PTSD, depression, sleep disorders, or combination of conditions. Symptoms include forgetting appointments, difficulty following conversations, trouble with multitasking, slowed thinking, word-finding difficulties, and impaired judgment. Significantly impacts work performance, daily activities, and independence. Assessed through neuropsychological testing.",
+    "evidenceNeeded": [
+      "Comprehensive neuropsychological evaluation",
+      "Cognitive testing results (WAIS, WMS, etc.)",
+      "Nexus letter connecting to TBI, PTSD, or other service-connected condition",
+      "Personal statement with specific examples of cognitive difficulties",
+      "Work performance reviews showing cognitive struggles",
+      "Family statements about memory and cognitive changes",
+      "Brain imaging if applicable"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "social_isolation"]
+  },
+  {
+    "id": "knee",
+    "name": "Knee Conditions (Degenerative Arthritis/Meniscus/Ligament)",
+    "category": "Musculoskeletal",
+    "ratingRange": "10-60%",
+    "shortDescription": "Degenerative arthritis, meniscus tears, ligament damage in knees",
+    "fullDescription": "Knee conditions include degenerative arthritis (osteoarthritis), meniscus tears, ACL/MCL/PCL injuries, patellofemoral syndrome, and chondromalacia. Common from military activities including running with heavy gear, parachute landings, combat operations, repetitive kneeling, and jumping. Symptoms include pain, stiffness, swelling, instability, locking, catching, and limited range of motion. Can significantly impair mobility, ability to stand/walk for extended periods, and climbing stairs. Rating based on range of motion limitation, instability, and functional loss. Bilateral (both knees) rated separately.",
+    "evidenceNeeded": [
+      "Orthopedic examination with range of motion measurements",
+      "X-rays showing joint space narrowing, bone spurs, or arthritis",
+      "MRI results showing meniscus tears, cartilage loss, or ligament damage",
+      "Service treatment records documenting knee injuries",
+      "Personal statement on pain levels and functional limitations",
+      "Documentation of any knee surgeries (meniscectomy, ACL repair)",
+      "Gait analysis if available"
+    ],
+    "secondaryConditions": ["back", "hip", "ankle", "plantar_fasciitis"]
+  },
+  {
+    "id": "back",
+    "name": "Lumbar Spine/Lower Back Conditions",
+    "category": "Musculoskeletal",
+    "ratingRange": "10-100%",
+    "shortDescription": "Degenerative disc disease, herniated discs, chronic lower back pain",
+    "fullDescription": "Lower back conditions include degenerative disc disease, herniated or bulging discs, spinal stenosis, facet joint arthritis, muscle strains, and radiculopathy (nerve root compression causing sciatica). Extremely common in veterans from heavy lifting, prolonged sitting/standing, vehicle operations, parachute landings, and combat activities. Symptoms include chronic pain, stiffness, reduced range of motion, muscle spasms, radiating leg pain, numbness, tingling, and weakness. Can cause significant disability in daily activities and work. Rating based on range of motion, incapacitating episodes, and neurological deficits.",
+    "evidenceNeeded": [
+      "Orthopedic or neurosurgical examination",
+      "Range of motion measurements (flexion, extension, lateral flexion)",
+      "MRI or CT showing disc pathology, stenosis, or nerve compression",
+      "X-rays showing degenerative changes",
+      "Documentation of incapacitating episodes requiring bed rest",
+      "EMG/nerve conduction studies if radiculopathy present",
+      "Personal statement on pain patterns and functional limitations",
+      "Treatment records including physical therapy, injections, surgery"
+    ],
+    "secondaryConditions": ["sciatica", "radiculopathy", "knee", "hip", "erectile_dysfunction"]
+  },
+  {
+    "id": "shoulder",
+    "name": "Shoulder Conditions (Rotator Cuff/Arthritis/Impingement)",
+    "category": "Musculoskeletal",
+    "ratingRange": "10-50%",
+    "shortDescription": "Rotator cuff tears, impingement syndrome, arthritis, instability",
+    "fullDescription": "Shoulder conditions include rotator cuff tears (supraspinatus, infraspinatus, teres minor, subscapularis), impingement syndrome, acromioclavicular (AC) joint arthritis, labral tears, adhesive capsulitis (frozen shoulder), and instability. Common from military activities involving overhead work, carrying heavy packs, repetitive motions, and trauma. Symptoms include pain with overhead activities, limited range of motion, weakness, catching/clicking, night pain, and difficulty with daily activities like dressing or reaching. Rating based on range of motion limitation and functional loss.",
+    "evidenceNeeded": [
+      "Orthopedic examination with range of motion measurements (forward elevation, abduction, rotation)",
+      "MRI showing rotator cuff tears, labral tears, or arthritis",
+      "X-rays of shoulder joint",
+      "Special tests (Neer's, Hawkins, drop arm test) results",
+      "Service records documenting shoulder injuries",
+      "Documentation of any shoulder surgeries",
+      "Personal statement on functional limitations"
+    ],
+    "secondaryConditions": ["neck", "back"]
+  },
+  {
+    "id": "neck",
+    "name": "Cervical Spine/Neck Conditions",
+    "category": "Musculoskeletal",
+    "ratingRange": "10-100%",
+    "shortDescription": "Degenerative disc disease, herniated discs, cervical radiculopathy",
+    "fullDescription": "Cervical spine conditions include degenerative disc disease, herniated or bulging discs, spinal stenosis, facet joint arthritis, whiplash injuries, and cervical radiculopathy (nerve root compression causing arm pain/numbness). Common from vehicle accidents, aircraft ejections, combat activities, prolonged helmet wear, and poor ergonomics. Symptoms include neck pain, stiffness, reduced range of motion, headaches, arm pain/numbness/tingling, and weakness. Can significantly impact daily activities and sleep. Rating based on range of motion and neurological deficits.",
+    "evidenceNeeded": [
+      "Orthopedic or neurosurgical examination",
+      "Range of motion measurements (flexion, extension, rotation, lateral bending)",
+      "MRI or CT showing disc pathology or stenosis",
+      "X-rays showing degenerative changes",
+      "EMG/nerve conduction studies if radiculopathy present",
+      "Personal statement on pain and functional limitations",
+      "Treatment records including physical therapy and injections"
+    ],
+    "secondaryConditions": ["migraine", "shoulder", "back"]
+  },
+  {
+    "id": "hip",
+    "name": "Hip Conditions (Arthritis/Bursitis/Labral Tears)",
+    "category": "Musculoskeletal",
+    "ratingRange": "10-60%",
+    "shortDescription": "Degenerative arthritis, bursitis, labral tears, avascular necrosis",
+    "fullDescription": "Hip conditions include degenerative arthritis (osteoarthritis), trochanteric bursitis, labral tears, femoroacetabular impingement (FAI), and avascular necrosis. Common from military activities involving running, marching with heavy loads, jumping, and repetitive movements. Symptoms include groin pain, lateral hip pain, stiffness, limited range of motion, difficulty walking, and pain with weight-bearing. Can significantly impact mobility and daily activities. Rating based on range of motion limitation and functional impairment.",
+    "evidenceNeeded": [
+      "Orthopedic examination with range of motion measurements",
+      "X-rays showing joint space narrowing or arthritis",
+      "MRI showing labral tears, cartilage loss, or AVN",
+      "Gait assessment",
+      "Service records documenting hip injuries or activities",
+      "Documentation of any hip surgeries",
+      "Personal statement on pain and mobility limitations"
+    ],
+    "secondaryConditions": ["back", "knee", "ankle"]
+  },
+  {
+    "id": "ankle",
+    "name": "Ankle/Foot Conditions (Arthritis/Instability/Fractures)",
+    "category": "Musculoskeletal",
+    "ratingRange": "10-40%",
+    "shortDescription": "Ankle arthritis, chronic instability, post-fracture complications",
+    "fullDescription": "Ankle and foot conditions include degenerative arthritis, chronic ankle instability from repeated sprains, post-traumatic arthritis following fractures, tendonitis, and ligament damage. Common from parachute landings, uneven terrain navigation, running, and ankle injuries. Symptoms include pain, swelling, instability, reduced range of motion, difficulty walking on uneven surfaces, and problems with prolonged standing/walking. Can require bracing or assistive devices. Rating based on range of motion, instability, and functional limitation.",
+    "evidenceNeeded": [
+      "Orthopedic or podiatric examination",
+      "Range of motion measurements",
+      "X-rays showing arthritis or fracture healing",
+      "MRI for ligament or tendon pathology",
+      "Instability testing (anterior drawer, talar tilt)",
+      "Service records documenting ankle injuries",
+      "Personal statement on functional limitations",
+      "Photos/documentation of any bracing used"
+    ],
+    "secondaryConditions": ["plantar_fasciitis", "knee", "hip", "back"]
+  },
+  {
+    "id": "plantar_fasciitis",
+    "name": "Plantar Fasciitis",
+    "category": "Musculoskeletal",
+    "ratingRange": "10-40%",
+    "shortDescription": "Chronic heel and foot pain from plantar fascia inflammation",
+    "fullDescription": "Plantar Fasciitis is inflammation of the thick band of tissue (plantar fascia) connecting the heel bone to the toes. Extremely common in veterans from marching, running, and standing on hard surfaces while carrying heavy loads. Symptoms include sharp, stabbing heel pain especially with first steps in the morning or after prolonged sitting, pain after standing/walking for extended periods, and tenderness along the arch. Can be bilateral (both feet). Often becomes chronic despite treatment. Rating based on severity and functional impairment.",
+    "evidenceNeeded": [
+      "Podiatrist or orthopedic examination",
+      "X-rays to rule out heel spurs or stress fractures",
+      "Ultrasound or MRI showing plantar fascia thickening if available",
+      "Service records documenting military activities (marching, running)",
+      "Treatment records showing conservative treatments tried (orthotics, stretching, injections)",
+      "Nexus letter if claiming secondary to knee, ankle, or back conditions",
+      "Personal statement on pain patterns and limitations"
+    ],
+    "secondaryConditions": ["knee", "hip", "back", "ankle"]
+  },
+  {
+    "id": "hypertension",
+    "name": "Hypertension (High Blood Pressure)",
+    "category": "Cardiovascular",
+    "ratingRange": "10-60%",
+    "shortDescription": "Persistently elevated blood pressure requiring medication",
+    "fullDescription": "Hypertension is persistently elevated blood pressure (≥140/90 mmHg) that increases risk of heart attack, stroke, kidney disease, and other complications. Can be service-connected directly (Agent Orange exposure, in-service diagnosis) or secondary to conditions like PTSD, sleep apnea, kidney disease, or steroid use. Often asymptomatic but can cause headaches, dizziness, or chest pain. Requires lifelong medication management. Rating based on blood pressure readings with medication and presence of complications.",
+    "evidenceNeeded": [
+      "Multiple blood pressure readings showing hypertension",
+      "Diagnosis from physician",
+      "Medication records (list of antihypertensive medications)",
+      "Nexus letter if claiming secondary to PTSD, sleep apnea, or other condition",
+      "Agent Orange exposure records if applicable",
+      "Treatment history showing progression",
+      "Documentation of any hypertensive complications (heart, kidney, eye damage)"
+    ],
+    "secondaryConditions": ["heart_disease", "stroke", "kidney_disease", "erectile_dysfunction"]
+  },
+  {
+    "id": "heart_disease",
+    "name": "Coronary Artery Disease/Ischemic Heart Disease",
+    "category": "Cardiovascular",
+    "ratingRange": "10-100%",
+    "shortDescription": "Narrowing of coronary arteries, heart attacks, angina",
+    "fullDescription": "Ischemic Heart Disease involves reduced blood flow to the heart from narrowed or blocked coronary arteries. Can result from Agent Orange exposure, burn pit exposure, or be secondary to hypertension, diabetes, or sleep apnea. Symptoms include chest pain (angina), shortness of breath, fatigue, irregular heartbeat, and in severe cases, heart attack (myocardial infarction). May require medications, stents, or bypass surgery. Rating based on METs (metabolic equivalents) test results, ejection fraction, and functional capacity.",
+    "evidenceNeeded": [
+      "Cardiology evaluation and stress test results",
+      "Echocardiogram showing ejection fraction",
+      "Cardiac catheterization results if performed",
+      "EKG/ECG results",
+      "Documentation of any heart attacks or interventions (stents, CABG)",
+      "Nexus letter for Agent Orange, burn pits, or secondary claims",
+      "Medication records",
+      "Functional capacity assessment"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "erectile_dysfunction"]
+  },
+  {
+    "id": "sleep_apnea",
+    "name": "Obstructive Sleep Apnea (OSA)",
+    "category": "Respiratory",
+    "ratingRange": "0-100%",
+    "shortDescription": "Breathing repeatedly stops during sleep, requires CPAP",
+    "fullDescription": "Obstructive Sleep Apnea occurs when throat muscles intermittently relax and block the airway during sleep, causing breathing to stop repeatedly throughout the night. Commonly secondary to PTSD (weight gain from medications, hypervigilance preventing deep sleep), deviated septum, rhinitis, or obesity. Symptoms include loud snoring, witnessed apneas, gasping/choking during sleep, excessive daytime sleepiness, morning headaches, difficulty concentrating, and irritability. Requires CPAP (Continuous Positive Airway Pressure) machine for treatment. Can lead to serious cardiovascular and metabolic complications. Rating based on sleep study severity (AHI score) and whether CPAP is required.",
+    "evidenceNeeded": [
+      "Sleep study (polysomnography) results showing AHI (Apnea-Hypopnea Index) score",
+      "Diagnosis from sleep specialist or pulmonologist",
+      "CPAP compliance records showing machine use",
+      "Nexus letter if claiming secondary to PTSD, deviated septum, rhinitis, etc.",
+      "Treatment records",
+      "Documentation of daytime symptoms and impairment",
+      "BMI and weight records if obesity-related"
+    ],
+    "secondaryConditions": ["hypertension", "diabetes", "heart_disease", "stroke", "erectile_dysfunction", "gerd"]
+  },
+  {
+    "id": "asthma",
+    "name": "Asthma",
+    "category": "Respiratory",
+    "ratingRange": "10-100%",
+    "shortDescription": "Chronic airway inflammation causing breathing difficulties",
+    "fullDescription": "Asthma is a chronic respiratory condition characterized by airway inflammation and bronchospasm causing recurrent episodes of wheezing, shortness of breath, chest tightness, and coughing. Can be triggered by burn pit exposure, toxic fumes, allergens, cold air, or exercise. Common Gulf War presumptive condition. Symptoms vary from mild intermittent to severe persistent. Requires inhaler medications (bronchodilators, corticosteroids). Rating based on FEV1 (Forced Expiratory Volume) testing, medication requirements, and frequency of exacerbations/ER visits.",
+    "evidenceNeeded": [
+      "Pulmonologist diagnosis and examination",
+      "Pulmonary function testing (spirometry) showing FEV1 values",
+      "Records of asthma exacerbations and ER visits",
+      "Medication records (inhalers, nebulizers, oral steroids)",
+      "Service records documenting burn pit exposure or environmental triggers",
+      "Personal statement on symptom frequency and triggers",
+      "Peak flow diary if maintained"
+    ],
+    "secondaryConditions": ["gerd", "anxiety", "rhinitis"]
+  },
+  {
+    "id": "copd",
+    "name": "COPD (Chronic Obstructive Pulmonary Disease)",
+    "category": "Respiratory",
+    "ratingRange": "10-100%",
+    "shortDescription": "Progressive lung disease causing breathing difficulties",
+    "fullDescription": "COPD includes chronic bronchitis and emphysema, characterized by progressive airflow limitation that is not fully reversible. Can result from burn pit exposure, smoking, occupational exposures, or Gulf War service. Symptoms include chronic cough, sputum production, progressive shortness of breath, wheezing, and chest tightness. Significantly limits physical activity and quality of life. Rated based on FEV1 testing, oxygen requirements, and functional impairment.",
+    "evidenceNeeded": [
+      "Pulmonologist diagnosis",
+      "Pulmonary function testing (spirometry) showing obstructive pattern",
+      "Chest X-ray or CT showing emphysematous changes",
+      "Oxygen saturation levels",
+      "Records of exacerbations and hospitalizations",
+      "Medication records",
+      "Burn pit exposure documentation",
+      "Smoking history if applicable"
+    ],
+    "secondaryConditions": ["heart_disease", "anxiety", "major_depression", "weight_loss"]
+  },
+  {
+    "id": "diabetes",
+    "name": "Diabetes Mellitus Type 2",
+    "category": "Endocrine/Metabolic",
+    "ratingRange": "10-100%",
+    "shortDescription": "Chronic condition affecting blood sugar regulation",
+    "fullDescription": "Type 2 Diabetes is a chronic condition where the body doesn't properly use insulin, resulting in elevated blood glucose levels. Can be service-connected through Agent Orange exposure (presumptive), herbicide exposure, or secondary to medications for mental health conditions (antipsychotics) or sleep apnea. Requires careful management with diet, exercise, oral medications, and/or insulin. Can lead to serious complications including neuropathy, nephropathy, retinopathy, cardiovascular disease, and limb amputation. Rating based on insulin requirement, blood glucose control, and presence of complications.",
+    "evidenceNeeded": [
+      "Diagnosis with blood sugar test results (Hemoglobin A1C, fasting glucose)",
+      "Treatment records and medication list (metformin, insulin, etc.)",
+      "Nexus letter for Agent Orange exposure or secondary to service-connected condition",
+      "Documentation of diabetic complications (neuropathy, retinopathy, nephropathy)",
+      "Blood glucose monitoring records",
+      "Dietary and lifestyle management records",
+      "Endocrinology consultation if applicable"
+    ],
+    "secondaryConditions": ["neuropathy", "retinopathy", "nephropathy", "erectile_dysfunction", "peripheral_vascular_disease"]
+  },
+  {
+    "id": "neuropathy",
+    "name": "Peripheral Neuropathy",
+    "category": "Neurological",
+    "ratingRange": "10-70%",
+    "shortDescription": "Nerve damage causing pain, numbness, tingling in extremities",
+    "fullDescription": "Peripheral neuropathy involves damage to peripheral nerves causing numbness, tingling, burning pain, weakness, and loss of sensation in hands and feet. Can result from diabetes, Agent Orange exposure, alcohol use, chemotherapy, or back/spine conditions causing nerve compression. Symptoms typically begin in toes/feet and progress upward. Can affect balance, coordination, and ability to walk. May lead to falls, injuries, and loss of function. Rating based on affected nerves and severity of symptoms.",
+    "evidenceNeeded": [
+      "Neurologist examination",
+      "EMG and nerve conduction velocity (NCV) studies showing neuropathy",
+      "Monofilament testing showing loss of protective sensation",
+      "Vibration testing results",
+      "Nexus letter connecting to diabetes, Agent Orange, or other service-connected condition",
+      "Personal statement on symptom distribution and functional impact",
+      "Documentation of falls or injuries from neuropathy"
+    ],
+    "secondaryConditions": ["falls", "foot_injuries", "major_depression", "anxiety"]
+  },
+  {
+    "id": "rhinitis",
+    "name": "Rhinitis (Allergic/Chronic)",
+    "category": "Respiratory",
+    "ratingRange": "10-30%",
+    "shortDescription": "Chronic nasal inflammation and congestion",
+    "fullDescription": "Chronic rhinitis involves persistent inflammation and irritation of nasal passages causing congestion, runny nose, sneezing, postnasal drip, and sinus pressure. Can result from burn pit exposure, dust exposure in desert environments, Gulf War service, or environmental allergens. Symptoms can be year-round or seasonal. Can lead to sinusitis and sleep apnea. Common Gulf War presumptive condition. Rating based on symptom severity and presence of polyps.",
+    "evidenceNeeded": [
+      "ENT (otolaryngology) diagnosis and examination",
+      "Allergy testing results if allergic rhinitis",
+      "Service records showing burn pit or environmental exposure",
+      "Treatment records (nasal steroids, antihistamines)",
+      "Personal statement on symptom frequency and impact",
+      "Documentation of any nasal polyps or sinus infections"
+    ],
+    "secondaryConditions": ["sleep_apnea", "sinusitis", "asthma"]
+  },
+  {
+    "id": "sinusitis",
+    "name": "Chronic Sinusitis",
+    "category": "Respiratory",
+    "ratingRange": "0-50%",
+    "shortDescription": "Chronic inflammation of sinus cavities",
+    "fullDescription": "Chronic sinusitis is inflammation of the sinus cavities lasting 12 weeks or longer despite treatment. Symptoms include facial pain/pressure, nasal congestion, thick nasal discharge, reduced sense of smell, headaches, and fatigue. Can result from burn pit exposure, rhinitis, nasal polyps, or environmental exposures. May require antibiotics, nasal steroids, or surgery. Rating based on presence of polyps or chronic purulent discharge requiring irrigation.",
+    "evidenceNeeded": [
+      "ENT examination and diagnosis",
+      "CT scan of sinuses showing chronic changes",
+      "Nasal endoscopy results",
+      "Treatment records showing multiple courses of antibiotics",
+      "Documentation of any sinus surgeries",
+      "Service exposure records",
+      "Personal statement on symptom frequency"
+    ],
+    "secondaryConditions": ["rhinitis", "headaches", "asthma"]
+  },
+  {
+    "id": "ibs",
+    "name": "Irritable Bowel Syndrome (IBS)",
+    "category": "Gastrointestinal",
+    "ratingRange": "0-30%",
+    "shortDescription": "Chronic digestive disorder causing abdominal pain and altered bowel habits",
+    "fullDescription": "Irritable Bowel Syndrome is a functional gastrointestinal disorder characterized by chronic abdominal pain, bloating, and altered bowel habits (diarrhea, constipation, or alternating). Often secondary to PTSD, anxiety, or depression due to the gut-brain connection. Symptoms are triggered or worsened by stress. Can significantly impact quality of life, work performance, and social activities due to unpredictable bowel urgency. Rating based on severity and frequency of symptoms.",
+    "evidenceNeeded": [
+      "Gastroenterologist diagnosis based on Rome IV criteria",
+      "Colonoscopy or other tests ruling out inflammatory bowel disease",
+      "Treatment records (dietary modifications, medications)",
+      "Nexus letter linking IBS to PTSD, anxiety, or depression",
+      "Personal statement describing symptom patterns and triggers",
+      "Documentation of work absences or functional impairment",
+      "Food/symptom diary if maintained"
+    ],
+    "secondaryConditions": ["anxiety", "major_depression", "hemorrhoids"]
+  },
+  {
+    "id": "gerd",
+    "name": "GERD (Gastroesophageal Reflux Disease)",
+    "category": "Gastrointestinal",
+    "ratingRange": "10-60%",
+    "shortDescription": "Chronic acid reflux causing heartburn and esophageal damage",
+    "fullDescription": "GERD occurs when stomach acid frequently flows back into the esophagus, causing irritation and damage. Symptoms include heartburn, regurgitation, chest pain, difficulty swallowing, chronic cough, and disrupted sleep. Can result from medications (NSAIDs for chronic pain), stress from PTSD, obesity, or burn pit exposure. May lead to esophagitis, Barrett's esophagus, or esophageal strictures. Requires medications (PPIs, H2 blockers) and lifestyle modifications. Rating based on presence of symptoms despite medication and complications.",
+    "evidenceNeeded": [
+      "Gastroenterologist diagnosis",
+      "Upper endoscopy (EGD) showing esophagitis or Barrett's esophagus",
+      "pH monitoring study if performed",
+      "Treatment records showing PPI or H2 blocker use",
+      "Nexus letter if claiming secondary to NSAID use or other condition",
+      "Personal statement on symptom frequency and impact on sleep",
+      "Documentation of any complications (strictures, bleeding)"
+    ],
+    "secondaryConditions": ["insomnia", "esophagitis", "barrett_esophagus", "dental_problems"]
+  },
+  {
+    "id": "hemorrhoids",
+    "name": "Hemorrhoids",
+    "category": "Gastrointestinal",
+    "ratingRange": "0-20%",
+    "shortDescription": "Swollen veins in rectum/anus causing pain and bleeding",
+    "fullDescription": "Hemorrhoids are swollen and inflamed veins in the rectum and anus causing discomfort, pain, itching, and bleeding. Can result from chronic constipation/diarrhea from IBS, straining, prolonged sitting (desk jobs, vehicle operations), or physical exertion. May be internal or external. Can significantly impact comfort during sitting and daily activities. May require surgical treatment in severe cases. Rating based on presence of persistent bleeding or prolapse requiring manual reduction.",
+    "evidenceNeeded": [
+      "Physician or gastroenterologist examination",
+      "Colonoscopy or anoscopy confirming hemorrhoids",
+      "Documentation of bleeding episodes",
+      "Treatment records (topical treatments, procedures, surgery)",
+      "Nexus letter if claiming secondary to IBS or other GI condition",
+      "Personal statement on pain and functional impact",
+      "Photos if external hemorrhoids visible"
+    ],
+    "secondaryConditions": ["anemia"]
+  },
+  {
+    "id": "skin_conditions",
+    "name": "Skin Conditions (Dermatitis/Eczema/Psoriasis)",
+    "category": "Dermatological",
+    "ratingRange": "0-60%",
+    "shortDescription": "Chronic skin inflammation, rashes, and lesions",
+    "fullDescription": "Chronic skin conditions include contact dermatitis, atopic dermatitis (eczema), psoriasis, and other inflammatory skin disorders. Can result from chemical exposures, burn pit exposure, environmental triggers, or stress from PTSD. Symptoms include itching, redness, scaling, cracking, bleeding, and pain. Can affect visible areas causing social embarrassment and psychological impact. May require topical steroids, systemic medications, or phototherapy. Rating based on body surface area affected and treatment required.",
+    "evidenceNeeded": [
+      "Dermatologist diagnosis and examination",
+      "Photos of affected areas",
+      "Biopsy results if performed",
+      "Treatment records (topical steroids, systemic medications)",
+      "Service exposure records if claiming burn pit or chemical exposure",
+      "Personal statement on symptom pattern and social impact",
+      "Documentation of flare-ups and triggers"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "scarring"]
+  },
+  {
+    "id": "scars",
+    "name": "Scars (Disfiguring/Painful/Unstable)",
+    "category": "Dermatological",
+    "ratingRange": "0-80%",
+    "shortDescription": "Surgical or traumatic scars affecting function or appearance",
+    "fullDescription": "Service-connected scars include surgical scars from service-related surgeries, traumatic scars from injuries, and burn scars. Rating considers disfigurement of head, face, or neck (visible areas), painful or unstable scars, scars affecting area size, scars involving joints limiting motion, and keloid scars. Can cause functional limitations, chronic pain, and psychological impact from disfigurement. Rating based on location, size, characteristics, and functional impairment.",
+    "evidenceNeeded": [
+      "Physician examination measuring scar dimensions",
+      "High-quality photos from multiple angles",
+      "Description of scar characteristics (color, texture, depression, keloid)",
+      "Service records documenting injury or surgery causing scar",
+      "Range of motion measurements if scar crosses joint",
+      "Pain assessment if scar is painful",
+      "Personal statement on functional and social impact",
+      "Mental health records if psychological impact significant"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "limited_range_of_motion"]
+  },
+  {
+    "id": "erectile_dysfunction",
+    "name": "Erectile Dysfunction",
+    "category": "Genitourinary",
+    "ratingRange": "0-20%",
+    "shortDescription": "Inability to achieve or maintain erection",
+    "fullDescription": "Erectile dysfunction (ED) is the inability to achieve or maintain an erection sufficient for sexual intercourse. Commonly secondary to PTSD (psychological ED), depression, medications for mental health conditions, diabetes, hypertension, vascular disease, spinal cord injuries, or pelvic injuries. Can significantly impact relationships and quality of life. May require medications (PDE5 inhibitors), injections, or devices. Rating based on degree of deformity or inability to perform intercourse.",
+    "evidenceNeeded": [
+      "Urologist evaluation",
+      "Assessment of organic vs. psychogenic causes",
+      "Nexus letter connecting to PTSD, diabetes, hypertension, back injury, or other service-connected condition",
+      "Medication review if ED from antidepressants or antihypertensives",
+      "Treatment records showing medications or therapies tried",
+      "Personal statement on onset and impact on relationships",
+      "Partner statement if applicable"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "relationship_problems"]
+  },
+  {
+    "id": "radiculopathy",
+    "name": "Radiculopathy (Sciatica/Nerve Root Compression)",
+    "category": "Neurological",
+    "ratingRange": "10-60%",
+    "shortDescription": "Nerve root compression causing radiating pain and neurological symptoms",
+    "fullDescription": "Radiculopathy occurs when a nerve root in the spine is compressed, inflamed, or damaged, causing pain, numbness, tingling, and weakness radiating along the nerve distribution. Sciatica is radiculopathy affecting the sciatic nerve from lumbar spine compression. Can result from herniated discs, spinal stenosis, or degenerative changes. Symptoms follow specific dermatome patterns. Can significantly impair walking, standing, sitting, and daily activities. Rating based on extent of sensory and motor loss, and which nerves are affected.",
+    "evidenceNeeded": [
+      "Neurological examination documenting sensory and motor deficits",
+      "MRI showing nerve root compression",
+      "EMG and nerve conduction studies confirming radiculopathy",
+      "Straight leg raise test results",
+      "Reflex testing results",
+      "Personal statement on pain radiation patterns",
+      "Documentation of any surgeries (discectomy, laminectomy)",
+      "Functional assessment of walking, standing, sitting tolerance"
+    ],
+    "secondaryConditions": ["back", "gait_disturbance", "muscle_atrophy"]
+  },
+  {
+    "id": "vertigo",
+    "name": "Vertigo/Vestibular Disorders",
+    "category": "Neurological",
+    "ratingRange": "10-100%",
+    "shortDescription": "Dizziness, spinning sensation, balance problems",
+    "fullDescription": "Vestibular disorders include vertigo (sensation of spinning), dizziness, imbalance, and spatial disorientation. Can result from TBI, blast exposure, Meniere's disease, labyrinthitis, or benign paroxysmal positional vertigo (BPPV). Symptoms include spinning sensation, nausea, vomiting, imbalance, difficulty walking, and falls. Can be triggered by head movements or position changes. Significantly impacts safety, driving, and daily activities. Rating based on frequency and severity of attacks and functional limitations.",
+    "evidenceNeeded": [
+      "ENT or neurotologist examination",
+      "Vestibular function testing (VNG, ENG, rotary chair)",
+      "MRI brain to rule out central causes",
+      "Dix-Hallpike maneuver results",
+      "Nexus letter if claiming secondary to TBI or blast exposure",
+      "Personal statement documenting attack frequency and triggers",
+      "Fall history and safety concerns",
+      "Treatment records (meclizine, vestibular rehabilitation)"
+    ],
+    "secondaryConditions": ["tbi", "anxiety", "falls", "major_depression"]
+  },
+  {
+    "id": "kidney_disease",
+    "name": "Chronic Kidney Disease",
+    "category": "Renal/Genitourinary",
+    "ratingRange": "0-100%",
+    "shortDescription": "Progressive loss of kidney function",
+    "fullDescription": "Chronic kidney disease (CKD) involves gradual loss of kidney function over time. Can result from diabetes, hypertension, Agent Orange exposure (glomerulonephritis), burn pit exposure, or NSAID use for chronic pain. Staged based on glomerular filtration rate (GFR). Early stages may be asymptomatic. Advanced stages cause fatigue, swelling, nausea, decreased urine output, and can progress to end-stage renal disease requiring dialysis or transplant. Rating based on kidney function (GFR or creatinine levels) and dialysis requirements.",
+    "evidenceNeeded": [
+      "Nephrologist evaluation",
+      "Blood work showing creatinine and GFR levels",
+      "Urinalysis showing proteinuria or other abnormalities",
+      "Kidney biopsy results if performed",
+      "Nexus letter connecting to diabetes, hypertension, Agent Orange, or NSAID use",
+      "Treatment records",
+      "Dialysis records if applicable",
+      "Documentation of kidney disease stage"
+    ],
+    "secondaryConditions": ["anemia", "hypertension", "neuropathy", "major_depression"]
+  },
+  {
+    "id": "chronic_fatigue",
+    "name": "Chronic Fatigue Syndrome (CFS/ME)",
+    "category": "Metabolic/Systemic",
+    "ratingRange": "10-100%",
+    "shortDescription": "Persistent, debilitating fatigue not improved by rest",
+    "fullDescription": "Chronic Fatigue Syndrome, also known as Myalgic Encephalomyelitis (ME/CFS), is characterized by severe, persistent fatigue that is not improved by rest and worsens with physical or mental activity. Common Gulf War illness presentation. Symptoms include post-exertional malaise, unrefreshing sleep, cognitive impairment (brain fog), orthostatic intolerance, muscle and joint pain, headaches, and tender lymph nodes. Can result from Gulf War exposures, burn pits, viral infections, or be secondary to PTSD and depression. Significantly impacts ability to work and perform daily activities. Rating based on symptom severity and functional impairment.",
+    "evidenceNeeded": [
+      "Physician diagnosis using established CFS/ME criteria",
+      "Documentation of persistent fatigue lasting 6+ months",
+      "Exclusion of other medical conditions causing fatigue",
+      "Nexus letter connecting to Gulf War service, burn pit exposure, or service-connected conditions",
+      "Personal statement documenting post-exertional malaise and functional limitations",
+      "Sleep study results if applicable",
+      "Cognitive testing showing impairment",
+      "Work capacity evaluation or disability documentation"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "fibromyalgia", "ibs", "orthostatic_hypotension"]
+  },
+  {
+    "id": "fibromyalgia",
+    "name": "Fibromyalgia",
+    "category": "Musculoskeletal/Systemic",
+    "ratingRange": "10-40%",
+    "shortDescription": "Widespread chronic pain, fatigue, and tender points",
+    "fullDescription": "Fibromyalgia is a chronic condition characterized by widespread musculoskeletal pain, fatigue, sleep disturbances, cognitive difficulties (fibro fog), and multiple tender points throughout the body. Often diagnosed in veterans with Gulf War service or secondary to PTSD, depression, or chronic pain conditions. Symptoms include widespread pain lasting 3+ months, morning stiffness, headaches, IBS symptoms, and extreme fatigue. Pain is often described as constant dull ache affecting both sides of body. Significantly impacts quality of life and daily functioning. Rating based on symptom severity and functional limitations.",
+    "evidenceNeeded": [
+      "Rheumatologist or physician diagnosis using 2016 criteria",
+      "Documentation of widespread pain index and symptom severity",
+      "Tender point examination findings",
+      "Exclusion of other rheumatologic conditions",
+      "Nexus letter for Gulf War presumptive or secondary to PTSD/other conditions",
+      "Sleep study showing non-restorative sleep patterns",
+      "Personal statement on pain locations, severity, and functional impact",
+      "Treatment records (medications, physical therapy, cognitive behavioral therapy)"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "ibs", "insomnia", "migraine"]
+  },
+  {
+    "id": "vision_loss",
+    "name": "Vision Loss/Impairment",
+    "category": "Visual",
+    "ratingRange": "10-100%",
+    "shortDescription": "Reduced visual acuity or visual field loss",
+    "fullDescription": "Vision loss includes reduced visual acuity (blurred vision, inability to see clearly) or visual field defects (loss of peripheral or central vision). Can result from TBI, blast injuries, eye injuries, diabetes (diabetic retinopathy), hypertension (hypertensive retinopathy), cataracts, glaucoma, or macular degeneration. Impacts ability to drive, read, work, and perform daily activities. May require corrective lenses, low vision aids, or cause complete blindness. Rating based on visual acuity measurements with best correction and extent of visual field loss.",
+    "evidenceNeeded": [
+      "Comprehensive ophthalmology examination",
+      "Visual acuity testing (Snellen chart) with and without correction",
+      "Visual field testing (perimetry)",
+      "Dilated fundus examination",
+      "OCT (optical coherence tomography) if retinal pathology",
+      "Service records documenting eye injury or relevant condition",
+      "Nexus letter if secondary to diabetes, hypertension, or TBI",
+      "Personal statement on functional visual limitations"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "falls", "employment_difficulties"]
+  },
+  {
+    "id": "cataracts",
+    "name": "Cataracts",
+    "category": "Visual",
+    "ratingRange": "10-30%",
+    "shortDescription": "Clouding of the eye lens causing vision impairment",
+    "fullDescription": "Cataracts are clouding of the natural lens of the eye causing blurred or dimmed vision, glare sensitivity, difficulty seeing at night, seeing halos around lights, and fading of colors. Can result from eye trauma, radiation exposure, steroid use for service-connected conditions, diabetes, or age-related changes accelerated by military service. May affect one or both eyes. Treatment typically involves surgical replacement of clouded lens. Rating based on visual acuity impairment before surgical correction.",
+    "evidenceNeeded": [
+      "Ophthalmology examination documenting cataract",
+      "Slit lamp examination results",
+      "Visual acuity measurements before and after surgery",
+      "Service records showing eye trauma or radiation exposure",
+      "Nexus letter if claiming secondary to diabetes or steroid use",
+      "Documentation of any cataract surgery",
+      "Personal statement on vision difficulties and glare problems"
+    ],
+    "secondaryConditions": ["vision_loss", "glare_sensitivity"]
+  },
+  {
+    "id": "glaucoma",
+    "name": "Glaucoma",
+    "category": "Visual",
+    "ratingRange": "10-100%",
+    "shortDescription": "Increased eye pressure damaging optic nerve",
+    "fullDescription": "Glaucoma is a group of eye conditions that damage the optic nerve, usually from elevated intraocular pressure (IOP). Can lead to progressive, irreversible vision loss starting with peripheral vision. Often asymptomatic in early stages. Types include open-angle (most common) and angle-closure glaucoma. Risk factors include eye injuries, steroid use, diabetes, and family history. Requires lifelong treatment with eye drops, laser treatment, or surgery to lower eye pressure and prevent vision loss. Rating based on visual field defects and visual acuity.",
+    "evidenceNeeded": [
+      "Ophthalmology examination with IOP measurements",
+      "Visual field testing showing glaucomatous defects",
+      "Optic nerve evaluation (OCT, fundus photos)",
+      "Gonioscopy to assess angle structures",
+      "Service records showing eye trauma or steroid use",
+      "Treatment records (eye drops, laser, surgery)",
+      "Nexus letter if secondary to diabetes or medication use",
+      "Documentation of progressive visual field loss"
+    ],
+    "secondaryConditions": ["vision_loss", "blindness", "anxiety", "major_depression"]
+  },
+  {
+    "id": "hypothyroidism",
+    "name": "Hypothyroidism",
+    "category": "Endocrine/Metabolic",
+    "ratingRange": "0-30%",
+    "shortDescription": "Underactive thyroid causing fatigue, weight gain, and metabolic issues",
+    "fullDescription": "Hypothyroidism occurs when the thyroid gland doesn't produce enough thyroid hormone, slowing metabolism. Symptoms include fatigue, weight gain, cold intolerance, dry skin, hair loss, constipation, muscle weakness, depression, memory problems, and slowed heart rate. Can result from radiation exposure, burn pit exposure, autoimmune thyroiditis (Hashimoto's), or be secondary to TBI affecting the pituitary gland. Requires lifelong thyroid hormone replacement (levothyroxine). Rating based on whether replacement therapy is required and symptom severity.",
+    "evidenceNeeded": [
+      "Endocrinologist evaluation",
+      "Thyroid function tests (TSH, Free T4, Free T3)",
+      "Thyroid antibodies if autoimmune suspected",
+      "Medication records showing thyroid replacement therapy",
+      "Nexus letter if claiming burn pit exposure or secondary to TBI",
+      "Service exposure records if applicable",
+      "Personal statement on symptoms and functional impact",
+      "Documentation of dose adjustments and monitoring"
+    ],
+    "secondaryConditions": ["major_depression", "weight_gain", "fatigue", "cognitive_impairment"]
+  },
+  {
+    "id": "rheumatoid_arthritis",
+    "name": "Rheumatoid Arthritis",
+    "category": "Musculoskeletal/Autoimmune",
+    "ratingRange": "20-100%",
+    "shortDescription": "Autoimmune disease causing joint inflammation and damage",
+    "fullDescription": "Rheumatoid Arthritis (RA) is a chronic autoimmune disease causing inflammation of joint linings (synovium), leading to painful swelling and eventual joint damage and deformity. Typically affects hands, wrists, feet, knees, and other joints symmetrically. Symptoms include joint pain, swelling, stiffness (especially morning stiffness lasting over 1 hour), fatigue, and systemic symptoms. Can cause permanent joint damage, deformities, and disability. May involve other organs (lungs, heart, eyes). Requires disease-modifying medications (DMARDs, biologics). Rating based on number of joints affected, incapacitating exacerbations, and functional impairment.",
+    "evidenceNeeded": [
+      "Rheumatologist diagnosis using ACR/EULAR criteria",
+      "Blood work showing rheumatoid factor (RF) and anti-CCP antibodies",
+      "Inflammatory markers (ESR, CRP)",
+      "X-rays showing erosive changes",
+      "Joint examination with range of motion measurements",
+      "Treatment records (methotrexate, biologics, steroids)",
+      "Documentation of flares and functional limitations",
+      "Hand function assessment and grip strength testing"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "lung_disease", "heart_disease", "anemia"]
+  },
+  {
+    "id": "liver_disease",
+    "name": "Liver Disease (Cirrhosis/Hepatitis/Fatty Liver)",
+    "category": "Gastrointestinal/Hepatic",
+    "ratingRange": "10-100%",
+    "shortDescription": "Chronic liver damage and dysfunction",
+    "fullDescription": "Chronic liver disease includes cirrhosis, chronic hepatitis (B or C), non-alcoholic fatty liver disease (NAFLD), and alcoholic liver disease. Can result from Hepatitis C exposure during military service (contaminated vaccines), alcohol use secondary to PTSD, medications for service-connected conditions, or metabolic syndrome. Symptoms include fatigue, jaundice, ascites (fluid accumulation), edema, easy bruising, confusion (hepatic encephalopathy), and liver failure in advanced stages. Can progress to liver cancer (hepatocellular carcinoma). Rating based on liver function tests, presence of complications, and severity.",
+    "evidenceNeeded": [
+      "Gastroenterologist or hepatologist evaluation",
+      "Liver function tests (AST, ALT, bilirubin, albumin, INR)",
+      "Hepatitis serology (Hep B, Hep C)",
+      "Liver biopsy or FibroScan showing degree of fibrosis/cirrhosis",
+      "Imaging (ultrasound, CT, MRI) showing liver changes",
+      "Nexus letter if secondary to Hepatitis C from service, alcohol use, or medications",
+      "Documentation of complications (ascites, varices, encephalopathy)",
+      "Service exposure records if applicable"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "hepatic_encephalopathy", "portal_hypertension", "liver_cancer"]
+  },
+  {
+    "id": "pancreatitis",
+    "name": "Chronic Pancreatitis",
+    "category": "Gastrointestinal",
+    "ratingRange": "10-100%",
+    "shortDescription": "Chronic inflammation of the pancreas causing pain and digestive issues",
+    "fullDescription": "Chronic pancreatitis is persistent inflammation of the pancreas causing permanent damage and impaired function. Can result from alcohol use secondary to PTSD, gallstones, medications, or genetic factors. Symptoms include chronic upper abdominal pain radiating to back, nausea, vomiting, weight loss, fatty stools (steatorrhea), and malabsorption. Can lead to diabetes (pancreatic insufficiency) and malnutrition. Requires enzyme replacement, pain management, and dietary modifications. Rating based on symptom severity, pancreatic insufficiency, and functional impairment.",
+    "evidenceNeeded": [
+      "Gastroenterologist diagnosis",
+      "CT or MRI showing pancreatic calcifications or ductal changes",
+      "Fecal elastase test showing pancreatic insufficiency",
+      "Documentation of recurrent acute pancreatitis episodes",
+      "Nexus letter if secondary to alcohol use from PTSD or medications",
+      "Treatment records (pain medications, enzyme replacement)",
+      "Personal statement on pain patterns and dietary restrictions",
+      "Blood glucose testing if diabetes developed"
+    ],
+    "secondaryConditions": ["diabetes", "weight_loss", "malnutrition", "major_depression", "substance_abuse"]
+  },
+  {
+    "id": "periodontal_disease",
+    "name": "Periodontal Disease/Dental Conditions",
+    "category": "Dental",
+    "ratingRange": "0-30%",
+    "shortDescription": "Gum disease and tooth loss affecting chewing and nutrition",
+    "fullDescription": "Periodontal disease includes gingivitis and periodontitis causing inflammation and infection of gums, loss of bone supporting teeth, and eventual tooth loss. Can result from poor dental care during service, GERD causing enamel erosion, medications causing dry mouth (mental health medications), diabetes, or smoking. Symptoms include bleeding gums, receding gums, loose teeth, tooth loss, pain, and difficulty chewing. Can impact nutrition, speech, and self-esteem. May require extractions, implants, or dentures. Rating based on loss of masticatory function and number of teeth lost.",
+    "evidenceNeeded": [
+      "Dental examination and periodontal charting",
+      "Dental X-rays showing bone loss",
+      "Documentation of number of teeth lost or extraction records",
+      "Nexus letter if claiming secondary to GERD, diabetes, or medications",
+      "Treatment records (deep cleanings, extractions, implants, dentures)",
+      "Personal statement on chewing difficulties and dietary restrictions",
+      "Photos showing dental condition if significant tooth loss"
+    ],
+    "secondaryConditions": ["major_depression", "anxiety", "nutritional_deficiency", "gerd"]
+  },
+  {
+    "id": "obesity",
+    "name": "Obesity",
+    "category": "Metabolic/Endocrine",
+    "ratingRange": "0-60%",
+    "shortDescription": "Excessive body weight from service-connected conditions or medications",
+    "fullDescription": "Obesity (BMI ≥30) can be service-connected when secondary to service-connected conditions or their treatments. Common causes include medications for mental health conditions (antipsychotics, mood stabilizers causing weight gain), reduced mobility from musculoskeletal injuries preventing exercise, metabolic changes from thyroid disorders, or lifestyle changes from PTSD/depression. Obesity increases risk of diabetes, heart disease, sleep apnea, joint problems, and other health complications. Rating typically under specific conditions causing obesity or through individual unemployability if prevents employment.",
+    "evidenceNeeded": [
+      "Physician documentation of BMI and weight",
+      "Nexus letter connecting obesity to medications or service-connected conditions",
+      "Medication records showing weight-gaining drugs (olanzapine, quetiapine, etc.)",
+      "Documentation of mobility limitations from musculoskeletal conditions",
+      "Weight history showing gain after starting medications or service-connected condition onset",
+      "Treatment records (dietary counseling, weight management programs)",
+      "Personal statement on impact of obesity on daily functioning"
+    ],
+    "secondaryConditions": ["diabetes", "sleep_apnea", "hypertension", "heart_disease", "knee", "back", "gerd"]
+  },
+  {
+    "id": "bipolar_disorder",
+    "name": "Bipolar Disorder",
+    "category": "Mental Health",
+    "ratingRange": "10-100%",
+    "shortDescription": "Mood disorder with alternating manic and depressive episodes",
+    "fullDescription": "Bipolar Disorder is a mental health condition characterized by extreme mood swings between manic/hypomanic episodes (elevated mood, increased energy, impulsivity, decreased need for sleep, racing thoughts) and depressive episodes (similar to major depression). Can be triggered by military trauma, combat stress, or TBI. Bipolar I involves full manic episodes; Bipolar II involves hypomanic episodes with major depression. Can cause significant occupational and social impairment, risky behaviors, and relationship problems. Requires mood stabilizers (lithium, valproate) and often antipsychotics. Rating based on frequency and severity of episodes and functional impairment.",
+    "evidenceNeeded": [
+      "Psychiatrist diagnosis using DSM-5 criteria",
+      "Documentation of manic/hypomanic and depressive episodes",
+      "Treatment records showing mood stabilizers and medication trials",
+      "Hospitalization records if applicable",
+      "Nexus letter connecting to service trauma or TBI",
+      "Personal statement documenting mood cycles and functional impact",
+      "Work history showing employment difficulties",
+      "Family/partner statements about behavioral changes during episodes"
+    ],
+    "secondaryConditions": ["substance_abuse", "anxiety", "insomnia", "weight_gain", "relationship_problems"]
+  }
+]

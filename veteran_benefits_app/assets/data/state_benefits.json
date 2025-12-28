@@ -1,0 +1,2394 @@
+{
+  "Alabama": [
+    {
+      "id": "al_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemptions for disabled veterans",
+      "fullDescription": "Alabama provides property tax exemptions for disabled veterans. Veterans with a 100% permanent and total disability rating receive a complete exemption on their primary residence and up to 160 acres. Veterans with lower disability ratings may receive partial exemptions depending on the county.",
+      "eligibility": [
+        "Honorable discharge from service",
+        "Service-connected disability from VA",
+        "Alabama resident",
+        "Property is primary residence"
+      ],
+      "value": "$500-$3,000+ annually depending on property value and disability rating",
+      "howToApply": "File with your county tax assessor or revenue commissioner. Submit DD214 and VA disability award letter. Application deadline is typically December 31st for following tax year.",
+      "residenceRequired": true
+    },
+    {
+      "id": "al_tuition",
+      "title": "GI Dependents' Scholarship Program",
+      "category": "Education",
+      "shortDescription": "Free tuition for dependents of disabled veterans",
+      "fullDescription": "Alabama provides free tuition, mandatory fees, books, and supplies at Alabama public institutions for dependents of veterans who are permanently and totally disabled, POW, MIA, or killed in action. Covers undergraduate and certain graduate programs.",
+      "eligibility": [
+        "Child or spouse of qualifying veteran",
+        "Veteran rated 100% P&T disabled, POW, MIA, or killed in action",
+        "Between ages 16-26 for children",
+        "Admitted to Alabama public institution"
+      ],
+      "value": "$8,000-$15,000+ annually including tuition, fees, and books",
+      "howToApply": "Apply through Alabama Department of Veterans Affairs. Submit veteran's DD214, VA rating letter, and relationship documentation. Contact school's financial aid office.",
+      "residenceRequired": true
+    },
+    {
+      "id": "al_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Lifetime hunting and fishing licenses for disabled veterans",
+      "fullDescription": "Alabama residents who are 100% permanently and totally disabled veterans receive free lifetime hunting and fishing licenses. Includes saltwater, freshwater, and hunting privileges.",
+      "eligibility": [
+        "Alabama resident",
+        "100% permanent and total disability rating",
+        "Honorable discharge"
+      ],
+      "value": "$50+ annually, lifetime value $1,500+",
+      "howToApply": "Apply through Alabama Department of Conservation and Natural Resources. Provide VA disability award letter showing 100% P&T and Alabama residency proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "al_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Special plates with parking privileges",
+      "fullDescription": "Alabama offers special Disabled Veteran license plates for veterans with service-connected disabilities. Plates provide parking privileges in designated disabled spaces.",
+      "eligibility": [
+        "Service-connected disability from VA",
+        "Alabama vehicle registration"
+      ],
+      "value": "Free disabled parking access",
+      "howToApply": "Apply at Alabama DMV with VA disability award letter. Complete disabled veteran plate application. Reduced plate fees may apply.",
+      "residenceRequired": true
+    },
+    {
+      "id": "al_state_parks",
+      "title": "Free State Park Entry",
+      "category": "Recreation",
+      "shortDescription": "Free admission to Alabama state parks",
+      "fullDescription": "Veterans with a 100% service-connected disability rating receive free entry to all Alabama State Parks for themselves and their immediate family.",
+      "eligibility": [
+        "100% service-connected disability rating",
+        "Valid veteran ID or disability documentation"
+      ],
+      "value": "$5 per vehicle per visit, annual value $100+",
+      "howToApply": "Present VA disability award letter showing 100% rating at park entrance. May need to register for permanent pass.",
+      "residenceRequired": false
+    },
+    {
+      "id": "al_employment",
+      "title": "State Employment Preference",
+      "category": "Employment",
+      "shortDescription": "Veteran hiring preference for state jobs",
+      "fullDescription": "Alabama provides employment preference to veterans applying for state government positions. Veterans receive preference in hiring and retention during workforce reductions.",
+      "eligibility": [
+        "Honorable discharge",
+        "Meet position qualifications",
+        "Apply for state government positions"
+      ],
+      "value": "Increased hiring and retention preference",
+      "howToApply": "When applying for Alabama state jobs, indicate veteran status and submit DD214 with application.",
+      "residenceRequired": false
+    },
+    {
+      "id": "al_homestead",
+      "title": "Homestead Exemption Enhancement",
+      "category": "Property Tax",
+      "shortDescription": "Additional homestead exemption for 100% disabled veterans",
+      "fullDescription": "In addition to standard property tax exemption, Alabama provides enhanced homestead exemptions in many counties for 100% disabled veterans, further reducing or eliminating property tax burden.",
+      "eligibility": [
+        "100% permanent and total disability",
+        "Primary residence in Alabama",
+        "County participation in enhanced exemption program"
+      ],
+      "value": "Additional $500-$2,000 annually depending on county",
+      "howToApply": "Check with county tax assessor for enhanced exemption availability. File alongside standard exemption application.",
+      "residenceRequired": true
+    }
+  ],
+  "Alaska": [
+    {
+      "id": "ak_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for elderly and disabled veterans",
+      "fullDescription": "Alaska provides property tax exemptions for veterans age 65+ or those with a 50% or higher service-connected disability. The exemption applies to the first $150,000 of assessed value for disabled veterans and $150,000 for senior veterans.",
+      "eligibility": [
+        "Alaska resident",
+        "Age 65+ OR 50% or higher service-connected disability",
+        "Property is primary residence",
+        "Own and occupy property"
+      ],
+      "value": "$1,500-$3,000 annually depending on property value and local mill rates",
+      "howToApply": "Apply with local borough or city assessor by January 31st. Submit DD214, proof of age or VA disability award letter, and ownership documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ak_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free lifetime licenses for disabled veterans",
+      "fullDescription": "Alaska residents who are permanently disabled veterans (50% or higher rating) receive free lifetime hunting and fishing licenses. Includes sport fishing, hunting, and trapping licenses.",
+      "eligibility": [
+        "Alaska resident",
+        "50% or higher permanent disability rating",
+        "Honorable discharge"
+      ],
+      "value": "$100+ annually, lifetime value $3,000+",
+      "howToApply": "Apply through Alaska Department of Fish and Game. Provide VA disability award letter showing 50%+ rating and Alaska residency documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ak_state_parks",
+      "title": "Free State Park Annual Pass",
+      "category": "Recreation",
+      "shortDescription": "Complimentary annual pass to Alaska state parks",
+      "fullDescription": "Disabled Alaska veterans receive free annual parking passes to Alaska State Parks. Pass covers day-use parking at all state parks.",
+      "eligibility": [
+        "Alaska resident",
+        "Service-connected disability (any percentage)",
+        "Honorable discharge"
+      ],
+      "value": "$60 annual parking pass",
+      "howToApply": "Request pass from Alaska State Parks. Provide DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ak_drivers_license",
+      "title": "Veteran License Plate Designation",
+      "category": "Transportation",
+      "shortDescription": "Veteran designation on license plates",
+      "fullDescription": "Alaska offers veteran designation on license plates and disabled veteran plates for those with service-connected disabilities. Disabled veteran plates may provide parking benefits.",
+      "eligibility": [
+        "Honorable discharge for veteran plates",
+        "Service-connected disability for disabled veteran plates"
+      ],
+      "value": "Recognition and potential parking privileges",
+      "howToApply": "Apply at Alaska DMV with DD214. For disabled veteran plates, also provide VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ak_pfd_exemption",
+      "title": "Permanent Fund Dividend Garnishment Protection",
+      "category": "Legal",
+      "shortDescription": "Protection of PFD from certain garnishments",
+      "fullDescription": "Alaska's Permanent Fund Dividend (PFD) received by veterans cannot be garnished for certain debts, providing financial protection for veteran families.",
+      "eligibility": [
+        "Alaska resident eligible for PFD",
+        "Veteran status"
+      ],
+      "value": "Protection of $1,000-$2,000 annual PFD payment",
+      "howToApply": "Automatic protection for PFD. No application required, but veteran status may need to be documented for certain legal proceedings.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ak_burial",
+      "title": "Burial Benefits",
+      "category": "Other",
+      "shortDescription": "Burial plot and services for veterans",
+      "fullDescription": "Alaska provides burial plots and certain burial services for eligible veterans at state veterans cemeteries. Includes opening and closing of grave, perpetual care, and headstone.",
+      "eligibility": [
+        "Honorable discharge",
+        "Alaska resident at time of death (or spouse of eligible veteran)"
+      ],
+      "value": "$3,000-$7,000 in burial services",
+      "howToApply": "Contact Alaska Office of Veterans Affairs or Alaska Veterans Cemetery. Pre-need applications available.",
+      "residenceRequired": true
+    }
+  ],
+  "Arizona": [
+    {
+      "id": "az_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property valuation reduction for disabled veterans",
+      "fullDescription": "Arizona provides property valuation reductions for disabled veterans on their primary residence. Veterans with a 10% or higher disability rating receive exemptions ranging from partial to full based on disability percentage and property value limits.",
+      "eligibility": [
+        "Arizona resident",
+        "10% or higher service-connected disability",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "$500-$5,000+ annually based on disability rating and property value",
+      "howToApply": "File with county assessor by September 1st. Submit DD214 and VA disability award letter. Application required only once unless circumstances change.",
+      "residenceRequired": true
+    },
+    {
+      "id": "az_tuition",
+      "title": "Tuition Waiver Program",
+      "category": "Education",
+      "shortDescription": "Tuition waivers at Arizona public universities",
+      "fullDescription": "Arizona provides tuition waivers for honorably discharged veterans and dependents of deceased or disabled veterans at Arizona's public universities, community colleges, and vocational schools. Covers in-state tuition and mandatory fees.",
+      "eligibility": [
+        "Honorable discharge",
+        "Arizona resident",
+        "Admitted to Arizona public institution",
+        "For dependents: parent killed in action or 100% P&T disabled"
+      ],
+      "value": "$3,000-$12,000 annually depending on institution",
+      "howToApply": "Contact school's veterans services office. Submit DD214, Arizona residency proof, and tuition waiver application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "az_hunting_fishing",
+      "title": "Disabled Veteran Hunt Permits",
+      "category": "Recreation",
+      "shortDescription": "Special hunting permits for disabled veterans",
+      "fullDescription": "Arizona Game and Fish Department offers special hunting and fishing opportunities for veterans with permanent disabilities. Includes disabled hunter permits and accessible hunting locations.",
+      "eligibility": [
+        "Permanent service-connected disability",
+        "Arizona hunting/fishing license holder"
+      ],
+      "value": "Access to special hunts and locations",
+      "howToApply": "Apply through Arizona Game and Fish Department. Provide VA disability documentation showing permanent disability.",
+      "residenceRequired": false
+    },
+    {
+      "id": "az_drivers_license",
+      "title": "Free Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Free license plates for disabled veterans",
+      "fullDescription": "Arizona offers free special license plates for disabled veterans, including disabled veteran and Purple Heart recipient plates. Some plates provide parking privileges in designated spaces.",
+      "eligibility": [
+        "Service-connected disability from VA",
+        "Arizona vehicle registration",
+        "Appropriate documentation for plate type"
+      ],
+      "value": "Free plates (saving $25+) plus parking privileges",
+      "howToApply": "Apply at Arizona MVD with VA disability award letter. Complete special plate application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "az_income_tax",
+      "title": "Disability Income Tax Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Exemption of VA disability income from state tax",
+      "fullDescription": "Arizona does not tax VA disability compensation, providing significant tax savings for disabled veterans. Additionally, certain military retirement pay may be partially exempt.",
+      "eligibility": [
+        "Receiving VA disability compensation",
+        "Arizona resident filing state taxes"
+      ],
+      "value": "Varies based on disability rating; potentially $500-$3,000+ annually",
+      "howToApply": "Claim exemption on Arizona state tax return. No special application required beyond normal tax filing.",
+      "residenceRequired": true
+    },
+    {
+      "id": "az_employment",
+      "title": "Veteran Employment Preference",
+      "category": "Employment",
+      "shortDescription": "Hiring preference for state employment",
+      "fullDescription": "Arizona provides veteran preference in state government hiring. Qualifying veterans receive preference points in the application process and priority consideration.",
+      "eligibility": [
+        "Honorable discharge",
+        "Meet position qualifications",
+        "Disabled veterans receive additional preference"
+      ],
+      "value": "Increased hiring preference and job opportunities",
+      "howToApply": "Indicate veteran status on state job applications. Submit DD214 and for disabled preference, VA disability award letter.",
+      "residenceRequired": false
+    },
+    {
+      "id": "az_state_parks",
+      "title": "State Parks Fee Waiver",
+      "category": "Recreation",
+      "shortDescription": "Free annual pass for 100% disabled veterans",
+      "fullDescription": "Arizona veterans with 100% service-connected disability rating receive complimentary annual passes to Arizona State Parks, covering day-use entry fees.",
+      "eligibility": [
+        "100% service-connected disability rating",
+        "Valid identification"
+      ],
+      "value": "$75 annual pass value",
+      "howToApply": "Apply through Arizona State Parks. Present VA disability award letter showing 100% rating.",
+      "residenceRequired": false
+    }
+  ],
+  "Arkansas": [
+    {
+      "id": "ar_property_tax",
+      "title": "Property Tax Relief for Disabled Veterans",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Arkansas provides property tax exemptions for disabled veterans on their homestead. Veterans with a 100% permanent and total disability rating or unemployability rating receive a complete exemption. Partial exemptions available for lower ratings.",
+      "eligibility": [
+        "Arkansas resident",
+        "100% permanent and total disability or TDIU",
+        "Honorable discharge",
+        "Property is homestead"
+      ],
+      "value": "$500-$2,500 annually based on property value",
+      "howToApply": "Apply with county assessor. Submit DD214, VA disability award letter, and homestead application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ar_tuition",
+      "title": "Veteran Dependents Scholarship",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for dependents of disabled veterans",
+      "fullDescription": "Arkansas provides tuition waivers at state-supported institutions for dependents of Arkansas veterans who were killed in action, POW/MIA, or are 100% permanently disabled.",
+      "eligibility": [
+        "Child or spouse of qualifying veteran",
+        "Veteran KIA, POW/MIA, or 100% P&T disabled",
+        "Admitted to Arkansas public college/university"
+      ],
+      "value": "$4,000-$10,000 annually",
+      "howToApply": "Contact school financial aid office. Submit veteran's DD214, VA rating, and relationship proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ar_hunting_fishing",
+      "title": "Free Lifetime Sportsman's License",
+      "category": "Recreation",
+      "shortDescription": "Free lifetime hunting and fishing license",
+      "fullDescription": "Arkansas residents who are 100% permanently and totally disabled veterans receive free lifetime combination hunting and fishing licenses.",
+      "eligibility": [
+        "Arkansas resident",
+        "100% permanent and total disability",
+        "Honorable discharge"
+      ],
+      "value": "$50+ annually, lifetime value $1,500+",
+      "howToApply": "Apply through Arkansas Game and Fish Commission. Provide VA rating showing 100% P&T and residency proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ar_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Special DV license plates",
+      "fullDescription": "Arkansas offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": [
+        "Service-connected disability rating",
+        "Arkansas vehicle registration"
+      ],
+      "value": "Reduced plate fees and parking privileges",
+      "howToApply": "Apply at Arkansas DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ar_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial exemption of military retirement income",
+      "fullDescription": "Arkansas provides a partial exemption for military retirement pay from state income tax. The first $6,000 of military retirement income is exempt.",
+      "eligibility": [
+        "Receiving military retirement pay",
+        "Arkansas resident"
+      ],
+      "value": "Up to $300-$400 annually in tax savings",
+      "howToApply": "Claim exemption on Arkansas state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "California": [
+    {
+      "id": "ca_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Exemption on primary residence for disabled veterans",
+      "fullDescription": "California offers a property tax exemption for disabled veterans. Veterans with a 100% disability rating can receive a complete exemption on their primary residence. Veterans with lower ratings receive partial exemptions ranging from $100,000 to $150,000 in assessed value depending on income and disability percentage.",
+      "eligibility": [
+        "Honorable discharge from military service",
+        "California resident",
+        "Property is primary residence",
+        "Disability rating from VA (amount varies by percentage)"
+      ],
+      "value": "$1,000-$4,000 annually depending on property value and disability rating",
+      "howToApply": "Contact your county assessor's office with DD214, VA disability award letter, and property deed. Application must be filed by February 15th for current tax year.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ca_tuition_waiver",
+      "title": "CalVet College Fee Waiver",
+      "category": "Education",
+      "shortDescription": "Tuition waiver at California community colleges and state universities",
+      "fullDescription": "California provides fee waivers for eligible veterans and dependents at all California Community Colleges, California State Universities, and University of California campuses. This program covers enrollment fees and can save thousands per year.",
+      "eligibility": [
+        "Veteran with active duty service of at least 90 days",
+        "Honorable discharge",
+        "California resident for at least 1 year",
+        "Eligible dependents of certain disabled or deceased veterans"
+      ],
+      "value": "$1,500-$7,000+ annually depending on school and units",
+      "howToApply": "Apply through the school's financial aid office. Submit DD214, California residency documentation, and fee waiver application. Some schools may require CalVet College Fee Waiver certification.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ca_hunting_fishing",
+      "title": "Free Hunting & Fishing License",
+      "category": "Recreation",
+      "shortDescription": "Complimentary hunting and fishing licenses for disabled veterans",
+      "fullDescription": "Disabled California veterans can receive free hunting and fishing licenses. This includes basic hunting and fishing privileges. Additional stamps and tags may be required for certain species.",
+      "eligibility": [
+        "50% or higher VA disability rating",
+        "California resident",
+        "Valid California ID or Driver's License"
+      ],
+      "value": "$60-$150 annually",
+      "howToApply": "Apply online through the California Department of Fish and Wildlife website or in person at a license agent. Provide proof of disability rating (VA award letter) and California residency.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ca_veteran_home_loan",
+      "title": "CalVet Home Loan Program",
+      "category": "Housing",
+      "shortDescription": "Low-interest home loans with no down payment",
+      "fullDescription": "The CalVet Home Loan program offers competitive interest rates and unique benefits including no mortgage insurance requirement, forbearance assistance, and no prepayment penalties. Available for purchasing homes, farms, and mobile homes in California.",
+      "eligibility": [
+        "Veteran with qualifying service",
+        "Honorable discharge",
+        "Meet income and credit requirements",
+        "Property must be in California and owner-occupied"
+      ],
+      "value": "Competitive rates typically 0.25%-0.5% below market, no PMI saves $100-$300/month",
+      "howToApply": "Apply online at CalVet.ca.gov or contact a CalVet Home Loan representative. Submit DD214, income documentation, and complete loan application process.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ca_dmv_benefits",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Special license plates with parking privileges",
+      "fullDescription": "California offers special Disabled Veteran (DV) license plates that provide parking privileges similar to disabled placards. DV plate holders can park in disabled parking spaces and are exempt from parking meters and time limits at metered spaces.",
+      "eligibility": [
+        "Service-connected disability from the VA",
+        "California vehicle registration",
+        "Submit application with disability verification"
+      ],
+      "value": "Free metered parking and time-restricted spaces, reduced fee for plates",
+      "howToApply": "Visit DMV with VA disability award letter, complete REG 195 form. Plates can be transferred between vehicles. One-time $22 fee (versus regular $50+ for specialty plates).",
+      "residenceRequired": true
+    }
+  ],
+  "Colorado": [
+    {
+      "id": "co_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Colorado provides a property tax exemption of 50% of the first $200,000 of actual value for qualifying disabled veterans. Veterans who are 100% permanently disabled due to service-connected disabilities are eligible.",
+      "eligibility": [
+        "Colorado resident",
+        "100% permanent service-connected disability",
+        "Honorable or general discharge",
+        "Property is primary residence"
+      ],
+      "value": "$1,000-$3,000 annually depending on property value",
+      "howToApply": "File with county assessor by July 1st. Submit DD214 and VA disability award letter showing 100% P&T rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "co_tuition",
+      "title": "Dependent Tuition Assistance",
+      "category": "Education",
+      "shortDescription": "In-state tuition for dependents of veterans",
+      "fullDescription": "Colorado allows dependents of disabled or deceased veterans to qualify for in-state tuition at public colleges and universities, regardless of residency status.",
+      "eligibility": [
+        "Dependent of veteran with 100% P&T disability or killed in action",
+        "Admitted to Colorado public institution"
+      ],
+      "value": "Savings of $10,000-$25,000 annually (difference between in-state and out-of-state)",
+      "howToApply": "Contact school admissions office. Submit veteran's DD214, VA rating letter, and relationship documentation.",
+      "residenceRequired": false
+    },
+    {
+      "id": "co_hunting_fishing",
+      "title": "Free Lifetime Hunting & Fishing License",
+      "category": "Recreation",
+      "shortDescription": "Lifetime licenses for disabled veterans",
+      "fullDescription": "Colorado residents with a 60% or higher service-connected disability receive free lifetime combination hunting and fishing licenses, including small game and fishing.",
+      "eligibility": [
+        "Colorado resident",
+        "60% or higher service-connected disability rating",
+        "Honorable discharge"
+      ],
+      "value": "$75+ annually, lifetime value $2,500+",
+      "howToApply": "Apply through Colorado Parks and Wildlife. Provide VA disability award letter showing 60%+ rating and residency proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "co_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Colorado offers disabled veteran license plates for veterans with service-connected disabilities. Plates provide parking privileges in designated disabled parking spaces and may provide meter exemptions in some municipalities.",
+      "eligibility": [
+        "Service-connected disability",
+        "Colorado vehicle registration"
+      ],
+      "value": "Reduced plate fees and parking privileges",
+      "howToApply": "Apply at Colorado DMV with VA disability award letter. Complete DV plate application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "co_state_parks",
+      "title": "Free State Parks Pass",
+      "category": "Recreation",
+      "shortDescription": "Free annual parks pass for disabled veterans",
+      "fullDescription": "Colorado veterans with 50% or higher service-connected disability receive free annual Aspen Leaf Annual Pass, providing free entry to all Colorado State Parks.",
+      "eligibility": [
+        "50% or higher service-connected disability",
+        "Valid identification"
+      ],
+      "value": "$80 annual pass value",
+      "howToApply": "Apply through Colorado Parks and Wildlife. Submit VA disability award letter showing 50%+ rating.",
+      "residenceRequired": false
+    },
+    {
+      "id": "co_employment",
+      "title": "Veteran Employment Preference",
+      "category": "Employment",
+      "shortDescription": "Hiring preference for state jobs",
+      "fullDescription": "Colorado provides veteran preference in state government employment. Qualifying veterans receive preference points in hiring processes.",
+      "eligibility": [
+        "Honorable discharge",
+        "Meet position qualifications"
+      ],
+      "value": "Increased hiring preference",
+      "howToApply": "Indicate veteran status on state job applications and submit DD214.",
+      "residenceRequired": false
+    }
+  ],
+  "Connecticut": [
+    {
+      "id": "ct_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Connecticut provides property tax exemptions for wartime veterans. Veterans with service-connected disabilities can receive exemptions ranging from $1,500 to $3,000 in assessed value based on disability percentage. 100% disabled veterans receive additional exemptions.",
+      "eligibility": [
+        "Connecticut resident",
+        "Honorable discharge",
+        "Service during wartime or conflict",
+        "Primary residence"
+      ],
+      "value": "$100-$500+ annually depending on disability rating and town mill rate",
+      "howToApply": "File with town assessor by October 1st. Submit DD214, discharge papers, and VA disability letter if applicable.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ct_tuition",
+      "title": "Tuition Waiver for Veterans",
+      "category": "Education",
+      "shortDescription": "Tuition waiver at Connecticut state colleges",
+      "fullDescription": "Connecticut provides tuition waivers for eligible veterans at state universities, community colleges, and regional technical high schools. Covers tuition for undergraduate and graduate programs.",
+      "eligibility": [
+        "Connecticut resident for at least 1 year",
+        "Honorable discharge",
+        "Served at least 90 days active duty or discharged due to service-connected disability"
+      ],
+      "value": "$5,000-$15,000 annually depending on institution",
+      "howToApply": "Contact school's veterans services or financial aid office. Submit DD214 and residency documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ct_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Connecticut residents with 10% or higher service-connected disability receive free hunting, fishing, and trapping licenses.",
+      "eligibility": [
+        "Connecticut resident",
+        "10% or higher service-connected disability",
+        "Honorable discharge"
+      ],
+      "value": "$70+ annually",
+      "howToApply": "Apply through Connecticut DEEP. Provide VA disability award letter showing 10%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ct_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Full exemption of military retirement pay from state income tax",
+      "fullDescription": "Connecticut fully exempts military retirement pay and VA disability compensation from state income tax, providing significant tax savings.",
+      "eligibility": [
+        "Receiving military retirement pay or VA disability compensation",
+        "Connecticut resident"
+      ],
+      "value": "Varies; potentially $1,000-$5,000+ annually",
+      "howToApply": "Claim exemption on Connecticut state tax return. No special application required.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ct_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Special DV plates",
+      "fullDescription": "Connecticut offers disabled veteran license plates for veterans with service-connected disabilities, which may provide parking privileges.",
+      "eligibility": [
+        "Service-connected disability",
+        "Connecticut vehicle registration"
+      ],
+      "value": "Potential parking privileges",
+      "howToApply": "Apply at Connecticut DMV with VA disability award letter.",
+      "residenceRequired": true
+    }
+  ],
+  "Delaware": [
+    {
+      "id": "de_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax credit for veterans",
+      "fullDescription": "Delaware provides property tax credits for veterans age 65+ or those with service-connected disabilities. The credit is up to $500 off property taxes for qualifying veterans.",
+      "eligibility": [
+        "Delaware resident",
+        "Age 65+ OR service-connected disability",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "Up to $500 annually",
+      "howToApply": "File with county government. Submit DD214, age verification or VA disability letter, and property documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "de_tuition",
+      "title": "Scholarship for Veterans & Dependents",
+      "category": "Education",
+      "shortDescription": "Scholarship for veterans and children",
+      "fullDescription": "Delaware provides scholarships for veterans and children of deceased or 100% disabled veterans attending Delaware colleges and universities.",
+      "eligibility": [
+        "Delaware resident",
+        "Veteran OR child of deceased/100% disabled veteran",
+        "Admitted to Delaware institution"
+      ],
+      "value": "$2,000-$5,000 annually",
+      "howToApply": "Contact Delaware Higher Education Office. Submit DD214, VA rating if applicable, and school enrollment documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "de_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Delaware residents who are 100% permanently and totally disabled veterans receive free hunting, fishing, and trapping licenses.",
+      "eligibility": [
+        "Delaware resident",
+        "100% permanent and total disability",
+        "Honorable discharge"
+      ],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Delaware Fish and Wildlife. Provide VA rating showing 100% P&T and residency proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "de_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Delaware offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": [
+        "Service-connected disability",
+        "Delaware vehicle registration"
+      ],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Delaware DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "de_employment",
+      "title": "Veteran Employment Preference",
+      "category": "Employment",
+      "shortDescription": "Hiring preference for state jobs",
+      "fullDescription": "Delaware provides veteran preference in state government hiring, giving qualified veterans priority consideration.",
+      "eligibility": [
+        "Honorable discharge",
+        "Meet position qualifications"
+      ],
+      "value": "Increased hiring preference",
+      "howToApply": "Indicate veteran status on state job applications and submit DD214.",
+      "residenceRequired": false
+    }
+  ],
+  "District of Columbia": [
+    {
+      "id": "dc_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax relief for disabled veterans",
+      "fullDescription": "DC provides property tax exemptions for disabled veterans. Veterans with 50% or higher service-connected disability receive exemptions on their homestead property.",
+      "eligibility": [
+        "DC resident",
+        "50% or higher service-connected disability",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "$500-$2,000 annually",
+      "howToApply": "File with DC Office of Tax and Revenue. Submit DD214 and VA disability award letter showing 50%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "dc_tuition",
+      "title": "DC Tuition Assistance Grant",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for DC residents",
+      "fullDescription": "DC provides tuition assistance for DC resident veterans attending public colleges, reducing the cost differential between DC and out-of-state tuition.",
+      "eligibility": [
+        "DC resident",
+        "Veteran with honorable discharge",
+        "Admitted to participating institution"
+      ],
+      "value": "Up to $10,000 annually",
+      "howToApply": "Apply through DC Office of the State Superintendent of Education. Submit DD214 and school enrollment documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "dc_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Free DV plates with parking privileges",
+      "fullDescription": "DC offers free disabled veteran license plates that provide parking privileges including free metered parking and time-restricted spaces.",
+      "eligibility": [
+        "Service-connected disability",
+        "DC vehicle registration"
+      ],
+      "value": "Free metered parking (saving $5-$15 per visit)",
+      "howToApply": "Apply at DC DMV with VA disability award letter. Complete DV plate application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "dc_employment",
+      "title": "Veteran Employment Preference",
+      "category": "Employment",
+      "shortDescription": "Hiring preference for DC government jobs",
+      "fullDescription": "DC provides veteran preference in district government hiring, with additional preference for disabled veterans.",
+      "eligibility": [
+        "Honorable discharge",
+        "Meet position qualifications"
+      ],
+      "value": "Increased hiring preference",
+      "howToApply": "Indicate veteran status on DC job applications and submit DD214. For disabled preference, also submit VA disability letter.",
+      "residenceRequired": false
+    }
+  ],
+  "Florida": [
+    {
+      "id": "fl_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemptions for disabled veterans",
+      "fullDescription": "Florida provides property tax exemptions for disabled veterans. Veterans with a 10% or higher disability rating receive a $5,000 exemption. Those who are totally and permanently disabled or age 65+ with a combat-related disability receive a complete exemption from all property taxes.",
+      "eligibility": [
+        "Honorable discharge",
+        "Service-connected disability from VA",
+        "Florida resident",
+        "Property is permanent residence"
+      ],
+      "value": "$500-$6,000+ annually depending on disability rating and property value",
+      "howToApply": "File with your county property appraiser by March 1st. Submit DD214, VA disability award letter, and homestead exemption application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "fl_college_waiver",
+      "title": "Florida GI Bill Waiver",
+      "category": "Education",
+      "shortDescription": "Tuition waiver at Florida public colleges",
+      "fullDescription": "Florida offers a tuition and fee waiver for veterans attending state colleges, universities, and career centers. Can be used for up to 110% of the required credit hours for degree completion. Spouses and children of deceased or disabled veterans may also qualify.",
+      "eligibility": [
+        "Florida resident for at least 12 months",
+        "Honorable discharge",
+        "Admitted to eligible institution",
+        "Eligible dependents of certain disabled or deceased veterans"
+      ],
+      "value": "$3,000-$6,000 annually depending on institution",
+      "howToApply": "Contact the school's veterans affairs or financial aid office. Submit DD214, Florida residency proof, and fee waiver application form.",
+      "residenceRequired": true
+    },
+    {
+      "id": "fl_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Complimentary hunting and fishing licenses",
+      "fullDescription": "Florida residents who are honorably discharged veterans with a service-connected disability can receive free hunting and freshwater fishing licenses. Includes most hunting and fishing privileges.",
+      "eligibility": [
+        "Honorable discharge",
+        "Service-connected disability (any percentage)",
+        "Florida resident"
+      ],
+      "value": "$50-$80 annually",
+      "howToApply": "Apply through MyFWC.com or at a tax collector's office or license agent. Provide DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "fl_drivers_license",
+      "title": "Free Driver's License",
+      "category": "Transportation",
+      "shortDescription": "Free driver's license for disabled veterans",
+      "fullDescription": "Florida provides free driver's licenses to honorably discharged veterans with a service-connected disability. Also includes free identification cards.",
+      "eligibility": [
+        "Honorable discharge",
+        "Service-connected disability from VA",
+        "Florida resident"
+      ],
+      "value": "$48 every 8 years",
+      "howToApply": "Visit a Florida DMV office with DD214 and VA disability award letter. Complete standard driver's license application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "fl_state_parks",
+      "title": "Discounted State Park Annual Pass",
+      "category": "Recreation",
+      "shortDescription": "Reduced fee annual pass for state parks",
+      "fullDescription": "Disabled veterans receive significantly discounted annual passes to Florida State Parks. Includes entry for the passholder and up to 8 people in the same vehicle.",
+      "eligibility": [
+        "Service-connected disability (any percentage)",
+        "Valid ID showing veteran status"
+      ],
+      "value": "Discounted from $60 to $20 annually",
+      "howToApply": "Purchase at any Florida State Park by showing DD214 and VA disability award letter. Pass valid for one year from purchase date.",
+      "residenceRequired": false
+    }
+  ],
+  "Georgia": [
+    {
+      "id": "ga_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Georgia provides property tax exemptions for disabled veterans on their primary residence. Veterans with 100% service-connected disability rating or unemployability receive up to $60,000 in assessed value exemption. Additional exemptions may be available at county level.",
+      "eligibility": [
+        "Georgia resident",
+        "100% service-connected disability or TDIU",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "$600-$2,000+ annually",
+      "howToApply": "File with county tax commissioner or tax assessor. Submit DD214 and VA disability award letter showing 100% or TDIU.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ga_tuition",
+      "title": "HERO Scholarship",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for dependents of disabled/deceased veterans",
+      "fullDescription": "Georgia provides the Helping Educate Reservists and their Offspring (HERO) Scholarship for children and spouses of disabled or deceased service members. Waives tuition at Georgia public colleges and universities.",
+      "eligibility": [
+        "Child or spouse of veteran with 100% P&T disability, MIA, KIA, or POW",
+        "Georgia resident",
+        "Admitted to Georgia public institution"
+      ],
+      "value": "$5,000-$12,000 annually",
+      "howToApply": "Apply through Georgia Student Finance Commission. Submit veteran's DD214, VA rating, and relationship documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ga_hunting_fishing",
+      "title": "Free Lifetime Hunting & Fishing License",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for 100% disabled veterans",
+      "fullDescription": "Georgia residents who are 100% permanently and totally disabled veterans receive free lifetime hunting and fishing licenses including all game and fish privileges.",
+      "eligibility": [
+        "Georgia resident",
+        "100% permanent and total disability",
+        "Honorable discharge"
+      ],
+      "value": "$65+ annually, lifetime value $2,000+",
+      "howToApply": "Apply through Georgia DNR. Provide VA rating showing 100% P&T and residency proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ga_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Free DV plates with parking privileges",
+      "fullDescription": "Georgia offers free disabled veteran license plates that provide parking privileges in designated disabled parking spaces statewide.",
+      "eligibility": [
+        "Service-connected disability rating",
+        "Georgia vehicle registration"
+      ],
+      "value": "Free plates and parking privileges",
+      "howToApply": "Apply at Georgia DDS with VA disability award letter. Complete DV plate application.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ga_income_tax",
+      "title": "Retirement Income Exclusion",
+      "category": "Tax Benefits",
+      "shortDescription": "Exclusion of retirement income from state tax",
+      "fullDescription": "Georgia provides significant retirement income exclusions including military retirement pay and disability compensation for veterans age 62 and older or permanently disabled.",
+      "eligibility": [
+        "Age 62+ or permanently disabled",
+        "Receiving retirement income",
+        "Georgia resident"
+      ],
+      "value": "Up to $65,000 excluded annually",
+      "howToApply": "Claim exclusion on Georgia state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Hawaii": [
+    {
+      "id": "hi_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Hawaii provides property tax exemptions for 100% service-connected disabled veterans. The exemption amount varies by county but can significantly reduce or eliminate property taxes.",
+      "eligibility": [
+        "Hawaii resident",
+        "100% service-connected disability",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "$1,000-$4,000+ annually depending on county",
+      "howToApply": "File with county real property tax office. Submit DD214 and VA disability award letter showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "hi_tuition",
+      "title": "Tuition Waiver for Dependents",
+      "category": "Education",
+      "shortDescription": "Tuition waiver at University of Hawaii",
+      "fullDescription": "Hawaii provides tuition waivers for dependents of 100% disabled or deceased veterans at University of Hawaii campuses.",
+      "eligibility": [
+        "Child or spouse of 100% disabled or deceased veteran",
+        "Hawaii resident",
+        "Admitted to University of Hawaii"
+      ],
+      "value": "$6,000-$12,000 annually",
+      "howToApply": "Contact UH financial aid office. Submit veteran's DD214, VA rating, and relationship documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "hi_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Hawaii residents with service-connected disabilities can receive free hunting and fishing licenses.",
+      "eligibility": [
+        "Hawaii resident",
+        "Service-connected disability",
+        "Honorable discharge"
+      ],
+      "value": "$30-$50 annually",
+      "howToApply": "Apply through Hawaii DLNR. Provide VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "hi_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Special DV plates",
+      "fullDescription": "Hawaii offers disabled veteran license plates for veterans with service-connected disabilities, which may provide parking privileges.",
+      "eligibility": [
+        "Service-connected disability",
+        "Hawaii vehicle registration"
+      ],
+      "value": "Potential parking privileges",
+      "howToApply": "Apply at Hawaii DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "hi_income_tax",
+      "title": "Military Pension Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Exemption of military retirement pay",
+      "fullDescription": "Hawaii fully exempts military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": [
+        "Receiving military retirement or VA disability pay",
+        "Hawaii resident"
+      ],
+      "value": "Varies; potentially $1,000-$4,000+ annually",
+      "howToApply": "Claim exemption on Hawaii state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Idaho": [
+    {
+      "id": "id_property_tax",
+      "title": "Property Tax Reduction",
+      "category": "Property Tax",
+      "shortDescription": "Property tax reduction for disabled veterans",
+      "fullDescription": "Idaho provides property tax reductions for disabled veterans. Veterans with 100% service-connected disability or who receive VA compensation for specially adapted housing receive significant exemptions.",
+      "eligibility": [
+        "Idaho resident",
+        "100% service-connected disability OR specially adapted housing compensation",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "$1,320-$1,500 annually",
+      "howToApply": "File with county assessor by April 15th. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "id_tuition",
+      "title": "Public Safety Officer Dependent Scholarship",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for children of disabled/deceased veterans",
+      "fullDescription": "Idaho provides tuition waivers for children of deceased or 100% disabled veterans at Idaho public colleges and universities.",
+      "eligibility": [
+        "Child of 100% disabled or deceased veteran",
+        "Idaho resident",
+        "Admitted to Idaho public institution"
+      ],
+      "value": "$5,000-$10,000 annually",
+      "howToApply": "Contact school financial aid office. Submit veteran's DD214, VA rating, and birth certificate.",
+      "residenceRequired": true
+    },
+    {
+      "id": "id_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Idaho residents with a 40% or higher service-connected disability receive free hunting and fishing licenses.",
+      "eligibility": [
+        "Idaho resident",
+        "40% or higher service-connected disability",
+        "Honorable discharge"
+      ],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Idaho Fish and Game. Provide VA disability award letter showing 40%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "id_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Idaho offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": [
+        "Service-connected disability",
+        "Idaho vehicle registration"
+      ],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Idaho DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "id_property_tax_reduction",
+      "title": "Circuit Breaker Property Tax Reduction",
+      "category": "Property Tax",
+      "shortDescription": "Additional property tax relief for low-income veterans",
+      "fullDescription": "Idaho's circuit breaker program provides additional property tax reductions for qualifying low-income disabled veterans and seniors.",
+      "eligibility": [
+        "Idaho resident",
+        "Meet income requirements",
+        "Age 65+ or disabled"
+      ],
+      "value": "Up to $1,320 reduction annually",
+      "howToApply": "File with county assessor by April 15th. Submit income documentation and disability verification.",
+      "residenceRequired": true
+    }
+  ],
+  "Illinois": [
+    {
+      "id": "il_property_tax",
+      "title": "Veterans with Disabilities Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Illinois provides significant property tax exemptions for disabled veterans. Veterans with service-connected disabilities receive exemptions ranging from $2,500 to complete exemption based on disability percentage and return from service date.",
+      "eligibility": [
+        "Illinois resident",
+        "Service-connected disability rating",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "$250-$5,000+ annually depending on disability rating",
+      "howToApply": "File with county assessor. Submit DD214 and VA disability award letter. Ongoing exemption requires annual filing.",
+      "residenceRequired": true
+    },
+    {
+      "id": "il_tuition",
+      "title": "Illinois Veteran Grant (IVG)",
+      "category": "Education",
+      "shortDescription": "Tuition waiver at Illinois public universities",
+      "fullDescription": "Illinois provides tuition and fee waivers for eligible veterans attending public universities and community colleges in Illinois. Covers up to 4 years of undergraduate study.",
+      "eligibility": [
+        "Illinois resident for 6+ months",
+        "Veteran with 1+ year of active duty or discharged due to service-connected disability",
+        "Honorable discharge",
+        "Admitted to Illinois public institution"
+      ],
+      "value": "$5,000-$15,000 annually",
+      "howToApply": "Apply through Illinois Student Assistance Commission. Submit DD214 and residency documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "il_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Illinois residents with a 50% or higher service-connected disability receive free hunting, fishing, and trapping licenses.",
+      "eligibility": [
+        "Illinois resident",
+        "50% or higher service-connected disability",
+        "Honorable discharge"
+      ],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Illinois DNR. Provide VA disability award letter showing 50%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "il_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Special DV plates with parking privileges",
+      "fullDescription": "Illinois offers disabled veteran license plates that provide parking privileges including free metered parking and extended time limits.",
+      "eligibility": [
+        "Service-connected disability",
+        "Illinois vehicle registration"
+      ],
+      "value": "Free metered parking and parking privileges",
+      "howToApply": "Apply at Illinois Secretary of State office with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "il_income_tax",
+      "title": "Military Retirement Income Subtraction",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial exemption of military retirement income",
+      "fullDescription": "Illinois allows veterans to subtract a portion of their military retirement income from state taxable income. The subtraction amount depends on age and total income.",
+      "eligibility": [
+        "Receiving military retirement pay",
+        "Illinois resident"
+      ],
+      "value": "Varies; potentially $500-$2,000+ annually",
+      "howToApply": "Claim subtraction on Illinois state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Indiana": [
+    {
+      "id": "in_property_tax",
+      "title": "Property Tax Deduction",
+      "category": "Property Tax",
+      "shortDescription": "Property tax deduction for disabled veterans",
+      "fullDescription": "Indiana provides property tax deductions for disabled veterans. Veterans with at least a 10% service-connected disability receive deductions on their primary residence, with higher deductions for higher disability ratings.",
+      "eligibility": [
+        "Indiana resident",
+        "At least 10% service-connected disability",
+        "Honorable discharge",
+        "Property is primary residence"
+      ],
+      "value": "$100-$2,500+ annually depending on disability rating",
+      "howToApply": "File with county auditor by December 31st. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "in_tuition",
+      "title": "Purple Heart Tuition Waiver",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for Purple Heart recipients and children",
+      "fullDescription": "Indiana provides tuition waivers for Purple Heart recipients and children of disabled or deceased veterans at Indiana public colleges and universities. Covers 100% tuition and mandatory fees.",
+      "eligibility": [
+        "Purple Heart recipient OR child of disabled/deceased veteran",
+        "Indiana resident",
+        "Admitted to Indiana public institution"
+      ],
+      "value": "$8,000-$15,000 annually",
+      "howToApply": "Contact school's veterans services office. Submit Purple Heart documentation or veteran's DD214 and VA rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "in_hunting_fishing",
+      "title": "Free Lifetime Hunting & Fishing License",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Indiana residents who are 100% disabled veterans receive free comprehensive lifetime hunting and fishing licenses.",
+      "eligibility": [
+        "Indiana resident",
+        "100% service-connected disability",
+        "Honorable discharge"
+      ],
+      "value": "$50+ annually, lifetime value $1,500+",
+      "howToApply": "Apply through Indiana DNR. Provide VA disability award letter showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "in_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Indiana offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": [
+        "Service-connected disability",
+        "Indiana vehicle registration"
+      ],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Indiana BMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "in_income_tax",
+      "title": "Military Retirement Income Deduction",
+      "category": "Tax Benefits",
+      "shortDescription": "Deduction for military retirement income",
+      "fullDescription": "Indiana provides a deduction for military retirement income and disability compensation from state income tax.",
+      "eligibility": [
+        "Receiving military retirement or disability pay",
+        "Indiana resident"
+      ],
+      "value": "Varies; potentially $500-$2,500+ annually",
+      "howToApply": "Claim deduction on Indiana state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Iowa": [
+    {
+      "id": "ia_property_tax",
+      "title": "Military Service Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Iowa provides property tax exemptions for honorably discharged veterans with service-connected disabilities. The exemption covers a portion of assessed value based on disability percentage.",
+      "eligibility": [
+        "Iowa resident",
+        "Service-connected disability rating",
+        "Honorable discharge",
+        "Property is homestead"
+      ],
+      "value": "$500-$3,000+ annually depending on disability rating",
+      "howToApply": "File with county assessor by July 1st. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ia_tuition",
+      "title": "National Guard Educational Assistance",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for Iowa Guard veterans",
+      "fullDescription": "Iowa provides educational assistance for Iowa National Guard members and veterans attending Iowa colleges and universities.",
+      "eligibility": [
+        "Iowa National Guard member or veteran",
+        "Admitted to Iowa institution"
+      ],
+      "value": "$2,000-$6,000 annually",
+      "howToApply": "Contact Iowa National Guard Education Office and school financial aid office.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ia_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Iowa residents with a 40% or higher service-connected disability receive free lifetime hunting, fishing, and fur harvester licenses.",
+      "eligibility": [
+        "Iowa resident",
+        "40% or higher service-connected disability",
+        "Honorable discharge"
+      ],
+      "value": "$60+ annually, lifetime value $1,800+",
+      "howToApply": "Apply through Iowa DNR. Provide VA disability award letter showing 40%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ia_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Special DV plates",
+      "fullDescription": "Iowa offers disabled veteran license plates for veterans with service-connected disabilities, which may provide parking privileges.",
+      "eligibility": [
+        "Service-connected disability",
+        "Iowa vehicle registration"
+      ],
+      "value": "Potential parking privileges",
+      "howToApply": "Apply at Iowa DOT with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ia_income_tax",
+      "title": "Military Retirement Pay Exclusion",
+      "category": "Tax Benefits",
+      "shortDescription": "Full exemption of military retirement pay",
+      "fullDescription": "Iowa fully exempts military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": [
+        "Receiving military retirement or VA disability pay",
+        "Iowa resident"
+      ],
+      "value": "Varies; potentially $1,000-$4,000+ annually",
+      "howToApply": "Claim exemption on Iowa state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Kansas": [
+    {
+      "id": "ks_property_tax",
+      "title": "Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Kansas provides property tax exemptions for disabled veterans on their homestead. Veterans rated 50% or higher service-connected disability or those receiving Dependency and Indemnity Compensation (DIC) are eligible for exemptions.",
+      "eligibility": ["Kansas resident", "50% or higher service-connected disability OR receiving DIC", "Honorable discharge", "Property is homestead"],
+      "value": "$700-$3,500+ annually depending on property value",
+      "howToApply": "File with county appraiser by March 15th. Submit DD214 and VA disability award letter showing 50%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ks_tuition",
+      "title": "Kansas Military Service Scholarship",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for veterans and dependents",
+      "fullDescription": "Kansas provides tuition assistance for veterans and dependents of deceased or disabled veterans attending Kansas public universities and community colleges.",
+      "eligibility": ["Kansas resident", "Veteran OR dependent of deceased/disabled veteran", "Admitted to Kansas public institution"],
+      "value": "$3,000-$10,000 annually",
+      "howToApply": "Contact school financial aid office. Submit DD214 or veteran's documentation and relationship proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ks_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Kansas residents with permanent disabilities can receive free hunting and fishing licenses through the Disabled American Veterans program.",
+      "eligibility": ["Kansas resident", "Permanent disability", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Kansas Wildlife & Parks. Provide VA disability documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ks_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Kansas offers disabled veteran license plates that may provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Kansas vehicle registration"],
+      "value": "Potential parking privileges",
+      "howToApply": "Apply at Kansas DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ks_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Full exemption of military retirement pay",
+      "fullDescription": "Kansas fully exempts military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": ["Receiving military retirement or VA disability pay", "Kansas resident"],
+      "value": "Varies; potentially $1,000-$4,000+ annually",
+      "howToApply": "Claim exemption on Kansas state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Kentucky": [
+    {
+      "id": "ky_property_tax",
+      "title": "Homestead Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Kentucky provides homestead exemptions for disabled veterans. Veterans with 100% service-connected disability receive significant property tax relief on their primary residence.",
+      "eligibility": ["Kentucky resident", "100% service-connected disability", "Honorable discharge", "Property is primary residence"],
+      "value": "$500-$2,000+ annually",
+      "howToApply": "File with county property valuation administrator. Submit DD214 and VA disability award letter showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ky_tuition",
+      "title": "Tuition Waiver for Dependents",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for children of disabled/deceased veterans",
+      "fullDescription": "Kentucky provides tuition waivers for dependents of 100% disabled, deceased, or POW/MIA veterans at Kentucky public universities.",
+      "eligibility": ["Child or spouse of qualifying veteran", "Veteran 100% disabled, deceased, POW, or MIA", "Admitted to Kentucky public institution"],
+      "value": "$6,000-$12,000 annually",
+      "howToApply": "Contact Kentucky Department of Veterans Affairs and school financial aid office. Submit veteran's DD214 and VA rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ky_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Kentucky residents with a VA service-connected disability can receive free hunting and fishing licenses.",
+      "eligibility": ["Kentucky resident", "Service-connected disability (any percentage)", "Honorable discharge"],
+      "value": "$40-$60 annually",
+      "howToApply": "Apply through Kentucky Fish & Wildlife. Provide VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ky_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Kentucky offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Kentucky vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Kentucky County Clerk with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ky_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial exemption of military retirement pay",
+      "fullDescription": "Kentucky provides a partial exemption for military retirement pay from state income tax. Up to $31,110 can be excluded.",
+      "eligibility": ["Receiving military retirement pay", "Kentucky resident"],
+      "value": "Up to $1,500 annually in tax savings",
+      "howToApply": "Claim exemption on Kentucky state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Louisiana": [
+    {
+      "id": "la_property_tax",
+      "title": "Homestead Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Louisiana provides property tax homestead exemptions for disabled veterans. Veterans with 50% or higher service-connected disability or 100% unemployability receive significant exemptions on their primary residence.",
+      "eligibility": ["Louisiana resident", "50% or higher service-connected disability OR 100% unemployability", "Honorable discharge", "Property is homestead"],
+      "value": "$500-$3,000+ annually depending on property value and parish",
+      "howToApply": "File with parish assessor. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "la_tuition",
+      "title": "Tuition Exemption for Dependents",
+      "category": "Education",
+      "shortDescription": "Tuition exemption for children of veterans",
+      "fullDescription": "Louisiana provides tuition exemptions for dependents of 100% service-connected disabled veterans or those who died from service-connected causes at Louisiana public colleges and universities.",
+      "eligibility": ["Child of qualifying veteran", "Veteran 100% disabled or died from service-connected cause", "Louisiana resident", "Admitted to Louisiana public institution"],
+      "value": "$5,000-$10,000 annually",
+      "howToApply": "Contact Louisiana Department of Veterans Affairs and school financial aid office. Submit veteran's DD214 and VA rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "la_hunting_fishing",
+      "title": "Free Lifetime Hunting & Fishing License",
+      "category": "Recreation",
+      "shortDescription": "Free lifetime licenses for 100% disabled veterans",
+      "fullDescription": "Louisiana residents with 100% service-connected disability receive free lifetime hunting, fishing, and trapping licenses including all necessary stamps and tags.",
+      "eligibility": ["Louisiana resident", "100% service-connected disability", "Honorable discharge"],
+      "value": "$75+ annually, lifetime value $2,500+",
+      "howToApply": "Apply through Louisiana Wildlife & Fisheries. Provide VA rating showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "la_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Free DV plates with parking privileges",
+      "fullDescription": "Louisiana offers free disabled veteran license plates that provide parking privileges in designated disabled parking spaces and free parking at metered spaces.",
+      "eligibility": ["Service-connected disability", "Louisiana vehicle registration"],
+      "value": "Free metered parking and parking privileges",
+      "howToApply": "Apply at Louisiana OMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "la_income_tax",
+      "title": "Military Retirement Income Exclusion",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial exclusion of military retirement income",
+      "fullDescription": "Louisiana allows a partial exclusion of military retirement income from state income tax for veterans age 65 and older.",
+      "eligibility": ["Age 65+", "Receiving military retirement pay", "Louisiana resident"],
+      "value": "Up to $6,000 excluded annually",
+      "howToApply": "Claim exclusion on Louisiana state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Maine": [
+    {
+      "id": "me_property_tax",
+      "title": "Veterans Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for veterans",
+      "fullDescription": "Maine provides property tax exemptions for veterans age 62 and older or those with service-connected disabilities. The exemption amount is $6,000 in property value, with higher amounts for veterans with 100% disability.",
+      "eligibility": ["Maine resident", "Age 62+ OR service-connected disability", "Served during recognized war period", "Property is primary residence"],
+      "value": "$60-$300+ annually depending on local mill rate",
+      "howToApply": "File with municipal assessor by April 1st. Submit DD214 and VA disability letter if applicable.",
+      "residenceRequired": true
+    },
+    {
+      "id": "me_tuition",
+      "title": "Veterans Dependents Educational Benefits",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for children of veterans",
+      "fullDescription": "Maine provides tuition waivers for children of veterans who were POW, MIA, killed in action, or died from service-connected disabilities at University of Maine System schools.",
+      "eligibility": ["Child of qualifying veteran", "Veteran was POW, MIA, KIA, or died from service-connected disability", "Maine resident", "Admitted to UMaine institution"],
+      "value": "$8,000-$12,000 annually",
+      "howToApply": "Contact Maine Bureau of Veterans Services and school financial aid office. Submit veteran's DD214 and death/disability documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "me_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Maine residents who are 100% permanently disabled veterans or Purple Heart recipients receive free lifetime hunting and fishing licenses.",
+      "eligibility": ["Maine resident", "100% permanent disability OR Purple Heart recipient", "Honorable discharge"],
+      "value": "$50+ annually, lifetime value $1,500+",
+      "howToApply": "Apply through Maine Dept of Inland Fisheries & Wildlife. Provide VA rating or Purple Heart documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "me_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Maine offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Maine vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Maine BMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "me_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial exemption of military retirement pay",
+      "fullDescription": "Maine provides a partial exemption for military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": ["Receiving military retirement or VA disability pay", "Maine resident"],
+      "value": "Varies; potentially $500-$2,000+ annually",
+      "howToApply": "Claim exemption on Maine state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Maryland": [
+    {
+      "id": "md_property_tax",
+      "title": "Disabled Veterans Property Tax Credit",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Maryland provides property tax exemptions for disabled veterans. Veterans with 100% service-connected disability receive a complete exemption. Other disabled veterans receive partial exemptions based on disability percentage.",
+      "eligibility": ["Maryland resident", "Service-connected disability rating", "Honorable discharge", "Property is primary residence"],
+      "value": "$500-$5,000+ annually depending on disability rating and property value",
+      "howToApply": "File with local assessment office. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "md_tuition",
+      "title": "Veterans of the Afghanistan and Iraq Conflicts Scholarship",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for veterans and dependents",
+      "fullDescription": "Maryland provides tuition assistance for veterans who served in Afghanistan or Iraq and their dependents at Maryland public colleges and universities. The Edward T. Conroy Memorial Scholarship provides full tuition for eligible veterans and dependents.",
+      "eligibility": ["Maryland resident", "Veteran who served in Afghanistan/Iraq OR dependent of disabled/deceased veteran", "Admitted to Maryland public institution"],
+      "value": "$8,000-$15,000 annually (full tuition)",
+      "howToApply": "Apply through Maryland Higher Education Commission. Submit DD214, service documentation, and school enrollment proof.",
+      "residenceRequired": true
+    },
+    {
+      "id": "md_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Maryland residents with a 50% or higher service-connected disability receive free hunting, fishing, and trapping licenses.",
+      "eligibility": ["Maryland resident", "50% or higher service-connected disability", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Maryland DNR. Provide VA disability award letter showing 50%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "md_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Maryland offers disabled veteran license plates that provide parking privileges including free metered parking in many jurisdictions.",
+      "eligibility": ["Service-connected disability", "Maryland vehicle registration"],
+      "value": "Free metered parking in some areas and parking privileges",
+      "howToApply": "Apply at Maryland MVA with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "md_income_tax",
+      "title": "Military Retirement Income Subtraction",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial subtraction of military retirement income",
+      "fullDescription": "Maryland allows a subtraction of up to $5,000 of military retirement income from state taxable income, with higher amounts for those age 55+.",
+      "eligibility": ["Receiving military retirement pay", "Maryland resident"],
+      "value": "Up to $250-$500+ annually in tax savings",
+      "howToApply": "Claim subtraction on Maryland state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Massachusetts": [
+    {
+      "id": "ma_property_tax",
+      "title": "Veterans Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Massachusetts provides property tax exemptions for veterans with service-connected disabilities. The exemption amount varies based on disability percentage, with 100% disabled veterans receiving higher exemptions (up to $1,000 in value).",
+      "eligibility": ["Massachusetts resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"],
+      "value": "$100-$500+ annually depending on disability rating and local tax rate",
+      "howToApply": "File with city or town assessor by April 1st. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ma_tuition",
+      "title": "Massachusetts Public Service Grant",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for dependents of disabled/deceased veterans",
+      "fullDescription": "Massachusetts provides tuition waivers for dependents of veterans who were killed in action, died from service-connected injuries, or are 100% permanently disabled at Massachusetts state colleges and universities.",
+      "eligibility": ["Child or spouse of qualifying veteran", "Veteran KIA, died from service-connected cause, or 100% P&T disabled", "Admitted to Massachusetts public institution"],
+      "value": "$10,000-$15,000 annually",
+      "howToApply": "Contact Massachusetts Department of Higher Education. Submit veteran's DD214, VA rating, and relationship documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ma_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Massachusetts residents who are 100% permanently disabled veterans (service or non-service connected) receive free hunting and fishing licenses.",
+      "eligibility": ["Massachusetts resident", "100% permanent disability", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Massachusetts Fish and Wildlife. Provide VA disability documentation showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ma_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Massachusetts offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces and may provide meter exemptions in some municipalities.",
+      "eligibility": ["Service-connected disability", "Massachusetts vehicle registration"],
+      "value": "Parking privileges and potential meter exemptions",
+      "howToApply": "Apply at Massachusetts RMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ma_income_tax",
+      "title": "Veterans Benefits Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Exemption of VA disability compensation",
+      "fullDescription": "Massachusetts fully exempts VA disability compensation from state income tax. Also provides exemptions for certain military retirement pay.",
+      "eligibility": ["Receiving VA disability compensation or military retirement", "Massachusetts resident"],
+      "value": "Varies; potentially $500-$3,000+ annually",
+      "howToApply": "Claim exemption on Massachusetts state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Michigan": [
+    {
+      "id": "mi_property_tax",
+      "title": "Disabled Veterans Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Michigan provides property tax exemptions for disabled veterans. Veterans who are 100% disabled (service-connected or unemployability) can receive a complete exemption on their primary residence.",
+      "eligibility": ["Michigan resident", "100% service-connected disability OR unemployability", "Honorable discharge", "Property is primary residence"],
+      "value": "$1,000-$5,000+ annually (complete exemption for qualifying veterans)",
+      "howToApply": "File with local assessor. Submit DD214 and VA disability award letter showing 100% or TDIU.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mi_tuition",
+      "title": "Michigan Veteran Tuition Grant",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for children of disabled/deceased veterans",
+      "fullDescription": "Michigan provides tuition assistance for children of veterans who were killed in action, died from service-connected causes, or are permanently and totally disabled at Michigan public colleges and universities.",
+      "eligibility": ["Child of qualifying veteran", "Veteran KIA, died from service-connected disability, or 100% P&T disabled", "Michigan resident", "Admitted to Michigan public institution"],
+      "value": "$Full tuition coverage",
+      "howToApply": "Contact Michigan Veterans Affairs Agency and school financial aid office. Submit veteran's DD214 and disability/death documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mi_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Michigan residents who are 100% disabled veterans receive free base hunting and fishing licenses.",
+      "eligibility": ["Michigan resident", "100% disability (service or non-service connected)", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Michigan DNR. Provide VA disability documentation showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mi_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Michigan offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Michigan vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Michigan Secretary of State office with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mi_income_tax",
+      "title": "Military Retirement Pay Deduction",
+      "category": "Tax Benefits",
+      "shortDescription": "Deduction for military retirement pay",
+      "fullDescription": "Michigan provides a deduction for military retirement pay from state income tax. The deduction amount depends on age, with full exemption for those born before 1946.",
+      "eligibility": ["Receiving military retirement pay", "Michigan resident"],
+      "value": "Varies by age; potentially $1,000-$5,000+ annually",
+      "howToApply": "Claim deduction on Michigan state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Minnesota": [
+    {
+      "id": "mn_property_tax",
+      "title": "Disabled Veterans Homestead Market Value Exclusion",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exclusion for disabled veterans",
+      "fullDescription": "Minnesota provides a market value exclusion on property taxes for disabled veterans. The exclusion amount is based on disability percentage, up to $300,000 for 100% disabled veterans.",
+      "eligibility": ["Minnesota resident", "Service-connected disability rating", "Honorable discharge", "Property is homestead"],
+      "value": "$500-$5,000+ annually depending on disability rating and property value",
+      "howToApply": "File with county assessor. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mn_tuition",
+      "title": "Minnesota GI Bill",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for veterans and dependents",
+      "fullDescription": "Minnesota provides tuition assistance for eligible Minnesota veterans and dependents of deceased or severely disabled veterans attending Minnesota colleges and universities.",
+      "eligibility": ["Minnesota resident", "Veteran OR dependent of deceased/100% disabled veteran", "Admitted to Minnesota institution"],
+      "value": "$3,000-$10,000 annually",
+      "howToApply": "Apply through Minnesota Office of Higher Education. Submit DD214 or veteran's documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mn_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for 100% disabled veterans",
+      "fullDescription": "Minnesota residents who are 100% permanently disabled veterans receive free hunting and fishing licenses.",
+      "eligibility": ["Minnesota resident", "100% permanent disability", "Honorable discharge"],
+      "value": "$60+ annually",
+      "howToApply": "Apply through Minnesota DNR. Provide VA rating showing 100% P&T.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mn_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Minnesota offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces and free parking at meters.",
+      "eligibility": ["Service-connected disability", "Minnesota vehicle registration"],
+      "value": "Free metered parking and parking privileges",
+      "howToApply": "Apply at Minnesota DVS with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mn_income_tax",
+      "title": "Military Retirement Pay Subtraction",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial subtraction of military retirement pay",
+      "fullDescription": "Minnesota allows a partial subtraction of military retirement pay from state taxable income.",
+      "eligibility": ["Receiving military retirement pay", "Minnesota resident"],
+      "value": "Varies; potentially $500-$2,000+ annually",
+      "howToApply": "Claim subtraction on Minnesota state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Mississippi": [
+    {
+      "id": "ms_property_tax",
+      "title": "Homestead Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Mississippi provides property tax homestead exemptions for disabled veterans. Veterans with 100% service-connected disability or total and permanent disability receive complete property tax exemption on their homestead.",
+      "eligibility": ["Mississippi resident", "100% service-connected disability OR total and permanent disability", "Honorable discharge", "Property is homestead"],
+      "value": "$500-$3,000+ annually (complete exemption for qualifying veterans)",
+      "howToApply": "File with county tax assessor. Submit DD214 and VA disability award letter showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ms_tuition",
+      "title": "Mississippi Resident Tuition Assistance Grant",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for veterans",
+      "fullDescription": "Mississippi provides tuition assistance grants for Mississippi veterans attending Mississippi public colleges and universities.",
+      "eligibility": ["Mississippi resident veteran", "Honorable discharge", "Admitted to Mississippi public institution"],
+      "value": "$2,500-$5,000 annually",
+      "howToApply": "Apply through Mississippi Office of Student Financial Aid. Submit DD214.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ms_hunting_fishing",
+      "title": "Free Lifetime Hunting & Fishing License",
+      "category": "Recreation",
+      "shortDescription": "Free lifetime licenses for 100% disabled veterans",
+      "fullDescription": "Mississippi residents who are 100% permanently and totally disabled veterans receive free lifetime hunting and fishing licenses including all game and fish privileges.",
+      "eligibility": ["Mississippi resident", "100% permanent and total disability", "Honorable discharge"],
+      "value": "$60+ annually, lifetime value $1,800+",
+      "howToApply": "Apply through Mississippi Wildlife, Fisheries & Parks. Provide VA rating showing 100% P&T.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ms_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "Free DV plates with parking privileges",
+      "fullDescription": "Mississippi offers free disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Mississippi vehicle registration"],
+      "value": "Free plates and parking privileges",
+      "howToApply": "Apply at Mississippi DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ms_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Full exemption of military retirement pay",
+      "fullDescription": "Mississippi fully exempts military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": ["Receiving military retirement or VA disability pay", "Mississippi resident"],
+      "value": "Varies; potentially $1,000-$5,000+ annually",
+      "howToApply": "Claim exemption on Mississippi state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Missouri": [
+    {
+      "id": "mo_property_tax",
+      "title": "Property Tax Credit",
+      "category": "Property Tax",
+      "shortDescription": "Property tax credit for disabled veterans",
+      "fullDescription": "Missouri provides property tax credits for disabled veterans. Veterans with 100% service-connected disability or total disability receive significant property tax relief on their primary residence.",
+      "eligibility": ["Missouri resident", "100% service-connected disability OR total disability", "Honorable discharge", "Property is primary residence"],
+      "value": "$500-$3,000+ annually depending on property value",
+      "howToApply": "File with county assessor. Submit DD214 and VA disability award letter showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mo_tuition",
+      "title": "Missouri Returning Heroes Education Act",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for combat veterans",
+      "fullDescription": "Missouri provides tuition waivers for combat veterans with at least 50% service-connected disability attending Missouri public colleges and universities. Covers tuition and fees for undergraduate programs.",
+      "eligibility": ["Missouri resident", "50% or higher service-connected disability", "Combat service", "Admitted to Missouri public institution"],
+      "value": "$5,000-$12,000 annually",
+      "howToApply": "Contact school veterans services office. Submit DD214, VA disability letter showing 50%+, and combat documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mo_hunting_fishing",
+      "title": "Free Hunting & Fishing Permits",
+      "category": "Recreation",
+      "shortDescription": "Free permits for disabled veterans",
+      "fullDescription": "Missouri residents who are 100% permanently disabled veterans receive free hunting, fishing, and trapping permits.",
+      "eligibility": ["Missouri resident", "100% permanent disability", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Missouri Department of Conservation. Provide VA rating showing 100% permanent.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mo_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Missouri offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Missouri vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Missouri Department of Revenue with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mo_income_tax",
+      "title": "Military Retirement Pay Deduction",
+      "category": "Tax Benefits",
+      "shortDescription": "Full deduction of military retirement pay",
+      "fullDescription": "Missouri allows a complete deduction of military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": ["Receiving military retirement or VA disability pay", "Missouri resident"],
+      "value": "Varies; potentially $1,000-$5,000+ annually",
+      "howToApply": "Claim deduction on Missouri state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Montana": [
+    {
+      "id": "mt_property_tax",
+      "title": "Disabled Veterans Property Tax Assistance",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Montana provides property tax exemptions for disabled veterans. Veterans with service-connected disabilities receive exemptions on a portion of their primary residence value based on disability percentage.",
+      "eligibility": ["Montana resident", "Service-connected disability rating", "Honorable discharge", "Property is primary residence"],
+      "value": "$200-$1,500+ annually depending on disability rating",
+      "howToApply": "File with county treasurer. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mt_tuition",
+      "title": "Fee Waiver for Dependents",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for children of disabled/deceased veterans",
+      "fullDescription": "Montana provides fee waivers for dependents of veterans who died in service or are 100% disabled at Montana University System schools.",
+      "eligibility": ["Child of qualifying veteran", "Veteran died in service or 100% disabled", "Admitted to Montana public institution"],
+      "value": "$5,000-$10,000 annually",
+      "howToApply": "Contact Montana Veterans Affairs and school financial aid office. Submit veteran's DD214 and disability/death documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mt_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Montana residents who are disabled veterans receive free hunting and fishing licenses. Specific eligibility varies by disability percentage.",
+      "eligibility": ["Montana resident", "Service-connected disability", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through Montana Fish, Wildlife & Parks. Provide VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mt_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Montana offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Montana vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Montana MVD with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "mt_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Partial exemption of military retirement pay",
+      "fullDescription": "Montana provides a partial exemption for military retirement pay from state income tax for qualifying retirees.",
+      "eligibility": ["Receiving military retirement pay", "Montana resident"],
+      "value": "Varies; potentially $500-$2,500+ annually",
+      "howToApply": "Claim exemption on Montana state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Nebraska": [
+    {
+      "id": "ne_property_tax",
+      "title": "Homestead Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Nebraska provides homestead exemptions for disabled veterans. Veterans with 100% service-connected disability receive significant property tax relief on their primary residence.",
+      "eligibility": ["Nebraska resident", "100% service-connected disability", "Honorable discharge", "Property is homestead"],
+      "value": "$500-$2,500+ annually",
+      "howToApply": "File with county assessor by June 30th. Submit DD214 and VA disability award letter showing 100%.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ne_tuition",
+      "title": "Tuition Assistance for Dependents",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for children of disabled/deceased veterans",
+      "fullDescription": "Nebraska provides tuition waivers for dependents of veterans who died or are permanently disabled from service at Nebraska public colleges and universities.",
+      "eligibility": ["Child of qualifying veteran", "Veteran died in service or 100% P&T disabled", "Nebraska resident", "Admitted to Nebraska public institution"],
+      "value": "$6,000-$10,000 annually",
+      "howToApply": "Contact Nebraska Department of Veterans Affairs and school financial aid office.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ne_hunting_fishing",
+      "title": "Free Hunting & Fishing Permits",
+      "category": "Recreation",
+      "shortDescription": "Free permits for disabled veterans",
+      "fullDescription": "Nebraska residents with qualifying disabilities receive free hunting and fishing permits.",
+      "eligibility": ["Nebraska resident", "Qualifying disability", "Honorable discharge"],
+      "value": "$40+ annually",
+      "howToApply": "Apply through Nebraska Game and Parks. Provide disability documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ne_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Nebraska offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Nebraska vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Nebraska DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ne_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Full exemption of military retirement pay",
+      "fullDescription": "Nebraska fully exempts military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": ["Receiving military retirement or VA disability pay", "Nebraska resident"],
+      "value": "Varies; potentially $1,000-$4,000+ annually",
+      "howToApply": "Claim exemption on Nebraska state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "Nevada": [
+    {
+      "id": "nv_property_tax",
+      "title": "Disabled Veterans Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "Nevada provides property tax exemptions for disabled veterans. Veterans with 60% or higher service-connected disability receive exemptions on their primary residence, with higher exemptions for higher disability ratings.",
+      "eligibility": ["Nevada resident", "60% or higher service-connected disability", "Honorable discharge", "Property is primary residence"],
+      "value": "$1,000-$4,000+ annually depending on disability rating",
+      "howToApply": "File with county assessor. Submit DD214 and VA disability award letter showing 60%+.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nv_tuition",
+      "title": "Nevada Veterans Tuition Discount",
+      "category": "Education",
+      "shortDescription": "Reduced tuition for veterans",
+      "fullDescription": "Nevada provides reduced tuition rates for veterans at Nevada System of Higher Education institutions.",
+      "eligibility": ["Nevada resident", "Veteran with honorable discharge", "Admitted to Nevada public institution"],
+      "value": "$2,000-$5,000 annually in reduced costs",
+      "howToApply": "Contact school veterans services office. Submit DD214.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nv_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "Nevada residents who are 100% permanently disabled veterans receive free hunting and fishing licenses.",
+      "eligibility": ["Nevada resident", "100% permanent disability", "Honorable discharge"],
+      "value": "$60+ annually",
+      "howToApply": "Apply through Nevada Department of Wildlife. Provide VA rating showing 100% P&T.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nv_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "Nevada offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "Nevada vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at Nevada DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nv_income_tax",
+      "title": "No State Income Tax",
+      "category": "Tax Benefits",
+      "shortDescription": "Nevada has no state income tax",
+      "fullDescription": "Nevada does not have a state income tax, so all income including military retirement pay and VA disability compensation is not taxed at the state level.",
+      "eligibility": ["Nevada resident"],
+      "value": "Significant tax savings compared to states with income tax",
+      "howToApply": "No application required - Nevada has no state income tax.",
+      "residenceRequired": true
+    }
+  ],
+  "New Hampshire": [
+    {
+      "id": "nh_property_tax",
+      "title": "Veterans Property Tax Credit",
+      "category": "Property Tax",
+      "shortDescription": "Property tax credit for disabled veterans",
+      "fullDescription": "New Hampshire provides property tax credits for veterans. The standard credit is $500, with higher credits ($2,000-$4,000) for service-connected disabled veterans or surviving spouses.",
+      "eligibility": ["New Hampshire resident", "Veteran with qualifying service", "Property is primary residence"],
+      "value": "$50-$400+ annually depending on local tax rate and credit amount",
+      "howToApply": "File with town or city assessor by April 15th. Submit DD214 and VA disability letter if applicable.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nh_tuition",
+      "title": "Tuition Waiver for Combat Veterans",
+      "category": "Education",
+      "shortDescription": "Tuition waiver at University System of NH",
+      "fullDescription": "New Hampshire provides tuition waivers for combat veterans at University System of New Hampshire and Community College System institutions.",
+      "eligibility": ["New Hampshire resident", "Combat veteran", "Honorable discharge", "Admitted to NH public institution"],
+      "value": "$8,000-$15,000 annually",
+      "howToApply": "Contact school veterans services office. Submit DD214 with combat documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nh_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "New Hampshire residents who are 100% permanently disabled veterans receive free hunting and fishing licenses.",
+      "eligibility": ["New Hampshire resident", "100% permanent disability", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through NH Fish and Game. Provide VA rating showing 100% P&T.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nh_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "New Hampshire offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "New Hampshire vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at NH DMV with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nh_income_tax",
+      "title": "No Earned Income Tax",
+      "category": "Tax Benefits",
+      "shortDescription": "No tax on wages or military retirement",
+      "fullDescription": "New Hampshire does not tax earned income, wages, or military retirement pay. Only taxes interest and dividends, which generally excludes military retirement and VA disability compensation.",
+      "eligibility": ["New Hampshire resident"],
+      "value": "Significant tax savings on retirement income",
+      "howToApply": "No application required for earned income exemption.",
+      "residenceRequired": true
+    }
+  ],
+  "New Jersey": [
+    {
+      "id": "nj_property_tax",
+      "title": "Veterans Property Tax Deduction",
+      "category": "Property Tax",
+      "shortDescription": "Property tax deduction for veterans",
+      "fullDescription": "New Jersey provides property tax deductions for veterans. The deduction is $250 annually, with disabled veterans receiving additional deductions. 100% disabled veterans may qualify for complete exemption.",
+      "eligibility": ["New Jersey resident", "Wartime veteran", "Property is primary residence"],
+      "value": "$250-$5,000+ annually depending on disability status",
+      "howToApply": "File with county tax board. Submit DD214 and VA disability letter if applicable.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nj_tuition",
+      "title": "POW/MIA Tuition Benefit",
+      "category": "Education",
+      "shortDescription": "Tuition waiver for children of POW/MIA/KIA veterans",
+      "fullDescription": "New Jersey provides tuition waivers for children of veterans who were POW, MIA, or killed in action at New Jersey public colleges and universities.",
+      "eligibility": ["Child of POW, MIA, or KIA veteran", "New Jersey resident", "Admitted to NJ public institution"],
+      "value": "$10,000-$15,000 annually",
+      "howToApply": "Contact New Jersey Department of Military and Veterans Affairs and school financial aid office.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nj_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "New Jersey residents who are 100% permanently disabled veterans receive free hunting, fishing, and trapping licenses.",
+      "eligibility": ["New Jersey resident", "100% permanent disability", "Honorable discharge"],
+      "value": "$60+ annually",
+      "howToApply": "Apply through NJ Fish and Wildlife. Provide VA rating showing 100% P&T.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nj_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "New Jersey offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces and free parking at meters.",
+      "eligibility": ["Service-connected disability", "New Jersey vehicle registration"],
+      "value": "Free metered parking and parking privileges",
+      "howToApply": "Apply at NJ MVC with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nj_income_tax",
+      "title": "Veterans Pension Exclusion",
+      "category": "Tax Benefits",
+      "shortDescription": "Exclusion of military pension from state tax",
+      "fullDescription": "New Jersey provides a pension exclusion that can be used for military retirement pay, with the amount varying based on income and age.",
+      "eligibility": ["Age 62+ or disabled", "Receiving military retirement pay", "New Jersey resident"],
+      "value": "Up to $100,000+ excluded depending on income",
+      "howToApply": "Claim exclusion on New Jersey state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "New Mexico": [
+    {
+      "id": "nm_property_tax",
+      "title": "Veterans Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Property tax exemption for disabled veterans",
+      "fullDescription": "New Mexico provides property tax exemptions for disabled veterans. Veterans with service-connected disabilities receive exemptions based on disability percentage, up to $10,000 in value for 100% disabled veterans.",
+      "eligibility": ["New Mexico resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"],
+      "value": "$100-$1,000+ annually depending on disability rating",
+      "howToApply": "File with county assessor. Submit DD214 and VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nm_tuition",
+      "title": "Veterans Tuition Program",
+      "category": "Education",
+      "shortDescription": "Tuition assistance for veterans and dependents",
+      "fullDescription": "New Mexico provides tuition assistance for eligible veterans and dependents of 100% disabled or deceased veterans at New Mexico public colleges and universities.",
+      "eligibility": ["New Mexico resident", "Veteran OR dependent of 100% disabled/deceased veteran", "Admitted to NM public institution"],
+      "value": "$5,000-$8,000 annually",
+      "howToApply": "Contact New Mexico DVS and school financial aid office. Submit DD214 or veteran's documentation.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nm_hunting_fishing",
+      "title": "Free Hunting & Fishing Licenses",
+      "category": "Recreation",
+      "shortDescription": "Free licenses for disabled veterans",
+      "fullDescription": "New Mexico residents who are disabled veterans receive free hunting and fishing licenses. Specific eligibility based on disability documentation.",
+      "eligibility": ["New Mexico resident", "Service-connected disability", "Honorable discharge"],
+      "value": "$50+ annually",
+      "howToApply": "Apply through NM Game & Fish. Provide VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nm_license_plates",
+      "title": "Disabled Veteran License Plates",
+      "category": "Transportation",
+      "shortDescription": "DV plates with parking privileges",
+      "fullDescription": "New Mexico offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.",
+      "eligibility": ["Service-connected disability", "New Mexico vehicle registration"],
+      "value": "Parking privileges",
+      "howToApply": "Apply at NM MVD with VA disability award letter.",
+      "residenceRequired": true
+    },
+    {
+      "id": "nm_income_tax",
+      "title": "Military Retirement Pay Exemption",
+      "category": "Tax Benefits",
+      "shortDescription": "Full exemption of military retirement pay",
+      "fullDescription": "New Mexico fully exempts military retirement pay and VA disability compensation from state income tax.",
+      "eligibility": ["Receiving military retirement or VA disability pay", "New Mexico resident"],
+      "value": "Varies; potentially $1,000-$5,000+ annually",
+      "howToApply": "Claim exemption on New Mexico state tax return.",
+      "residenceRequired": true
+    }
+  ],
+  "New York": [
+    {
+      "id": "ny_property_tax",
+      "title": "Veterans Property Tax Exemption",
+      "category": "Property Tax",
+      "shortDescription": "Exemption on assessed value for veterans",
+      "fullDescription": "New York provides property tax exemptions for veterans based on service period and disability status. Exemptions range from 15% for veterans with no disability to 50% for veterans with combat-related disabilities. Additional exemptions available for 100% disabled veterans.",
+      "eligibility": ["Honorable discharge", "New York resident", "Property is primary residence", "Qualifying service during wartime or emergency period"],
+      "value": "$500-$3,000+ annually depending on property value and disability status",
+      "howToApply": "File with your city or town assessor by March 1st (taxable status date). Submit DD214, VA disability award letter if applicable, and application form RP-458.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ny_civil_service",
+      "title": "Civil Service Preference",
+      "category": "Employment",
+      "shortDescription": "Veteran preference in state and local government hiring",
+      "fullDescription": "New York provides veteran preference points for civil service examinations and hiring. Veterans receive additional points on civil service exams, and disabled veterans receive even more. Veterans also receive preference in case of layoffs.",
+      "eligibility": ["Honorable discharge", "Meet position qualifications", "Apply for civil service positions"],
+      "value": "Increased hiring preference, 5-10 additional points on exams",
+      "howToApply": "When applying for civil service positions, submit DD214 and veteran preference claim form. For disabled veteran preference, also submit VA disability award letter.",
+      "residenceRequired": false
+    },
+    {
+      "id": "ny_tuition_assistance",
+      "title": "NYS Veterans Tuition Awards",
+      "category": "Education",
+      "shortDescription": "Financial aid for veterans attending college in NY",
+      "fullDescription": "New York State provides tuition awards for veterans attending undergraduate or graduate programs in New York. Awards can cover full or partial tuition at SUNY or CUNY schools, and provide assistance at private schools.",
+      "eligibility": ["New York resident", "Honorable discharge from service on or after August 2, 1990", "Matriculated full-time or part-time at approved NY school", "Apply for TAP and Federal student aid"],
+      "value": "Up to full SUNY/CUNY tuition or $6,195 at private schools annually",
+      "howToApply": "Apply through HESC (Higher Education Services Corporation) online. Submit DD214 and complete FAFSA and TAP applications.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ny_hunting_fishing",
+      "title": "Free Lifetime Hunting & Fishing License",
+      "category": "Recreation",
+      "shortDescription": "Lifetime hunting and fishing licenses for disabled veterans",
+      "fullDescription": "New York provides free lifetime sporting licenses to veterans with a service-connected disability of 40% or higher. Includes hunting, fishing, and trapping privileges.",
+      "eligibility": ["New York resident", "40% or higher service-connected disability rating"],
+      "value": "$60-$100 annually, lifetime value $2,000+",
+      "howToApply": "Apply through NY DEC website or license issuing agent. Provide proof of residency and VA disability award letter showing 40%+ rating.",
+      "residenceRequired": true
+    },
+    {
+      "id": "ny_business_tax",
+      "title": "Disabled Veteran Business Tax Credit",
+      "category": "Business",
+      "shortDescription": "Tax credits for businesses owned by disabled veterans",
+      "fullDescription": "New York provides tax credits to certified Service-Disabled Veteran-Owned Businesses (SDVOB). Credits available for various business taxes and preferences in state contracting.",
+      "eligibility": ["Business at least 51% owned by service-disabled veteran(s)", "Veteran has service-connected disability", "Business certified as SDVOB by NYS"],
+      "value": "Various tax credits, increased access to state contracts worth billions",
+      "howToApply": "Apply for SDVOB certification through NYS Department of Veterans' Services. Submit DD214, VA disability award letter, and business ownership documentation.",
+      "residenceRequired": false
+    }
+  ],
+  "North Carolina": [
+    {"id": "nc_property_tax", "title": "Property Tax Exclusion for Disabled Veterans", "category": "Property Tax", "shortDescription": "Property tax exclusion for disabled veterans", "fullDescription": "North Carolina provides property tax exclusions for disabled veterans. Veterans with 100% service-connected disability receive a complete exemption on the first $45,000 of assessed value. Other disabled veterans receive partial exclusions.", "eligibility": ["North Carolina resident", "Service-connected disability", "Honorable discharge", "Property is permanent residence"], "value": "$500-$2,000+ annually", "howToApply": "File with county assessor by June 1st. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "nc_tuition", "title": "Scholarship for Children of War Veterans", "category": "Education", "shortDescription": "Scholarships for children of disabled/deceased veterans", "fullDescription": "North Carolina provides scholarships for children of war veterans who were killed, died from service-connected causes, or are 100% permanently disabled at North Carolina public colleges and universities.", "eligibility": ["Child of qualifying veteran", "Veteran killed, died from service-connected cause, or 100% P&T disabled", "North Carolina resident", "Admitted to NC public institution"], "value": "$4,500 annually", "howToApply": "Apply through North Carolina Division of Veterans Affairs. Submit veteran's DD214, VA rating, and relationship documentation.", "residenceRequired": true},
+    {"id": "nc_hunting_fishing", "title": "Lifetime Hunting & Fishing License", "category": "Recreation", "shortDescription": "Lifetime licenses for 100% disabled veterans", "fullDescription": "North Carolina residents who are 100% permanently disabled veterans receive lifetime sportsman licenses including hunting and fishing.", "eligibility": ["North Carolina resident", "100% permanent disability", "Honorable discharge"], "value": "$65+ annually, lifetime value $2,000+", "howToApply": "Apply through NC Wildlife Resources Commission. Provide VA rating showing 100% P&T.", "residenceRequired": true},
+    {"id": "nc_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "North Carolina offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "North Carolina vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at NC DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "nc_income_tax", "title": "Military Retirement Pay Deduction", "category": "Tax Benefits", "shortDescription": "Deduction for military retirement pay", "fullDescription": "North Carolina provides a deduction for military retirement pay from state income tax. Up to $4,000 can be deducted.", "eligibility": ["Receiving military retirement pay", "North Carolina resident"], "value": "Up to $200 annually in tax savings", "howToApply": "Claim deduction on North Carolina state tax return.", "residenceRequired": true}
+  ],
+  "North Dakota": [
+    {"id": "nd_property_tax", "title": "Disabled Veterans Property Tax Credit", "category": "Property Tax", "shortDescription": "Property tax credit for disabled veterans", "fullDescription": "North Dakota provides property tax credits for disabled veterans. The credit amount is based on disability percentage, up to $5,600 for 100% disabled veterans.", "eligibility": ["North Dakota resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$200-$800+ annually depending on disability rating", "howToApply": "File with county auditor by February 1st. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "nd_tuition", "title": "Free Tuition for Dependents", "category": "Education", "shortDescription": "Free tuition for children of disabled/deceased veterans", "fullDescription": "North Dakota provides free tuition for dependents of veterans who died from service-connected causes or are rated 100% permanently disabled at North Dakota public colleges and universities.", "eligibility": ["Child of qualifying veteran", "Veteran died from service-connected cause or 100% P&T disabled", "North Dakota resident", "Admitted to ND public institution"], "value": "$6,000-$10,000 annually", "howToApply": "Contact North Dakota Department of Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "nd_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "North Dakota residents who are disabled veterans receive free general game and fishing licenses.", "eligibility": ["North Dakota resident", "Service-connected disability", "Honorable discharge"], "value": "$50+ annually", "howToApply": "Apply through ND Game and Fish Department. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "nd_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "North Dakota offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "North Dakota vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at ND DOT with VA disability award letter.", "residenceRequired": true},
+    {"id": "nd_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Full exemption of military retirement pay", "fullDescription": "North Dakota fully exempts military retirement pay and VA disability compensation from state income tax.", "eligibility": ["Receiving military retirement or VA disability pay", "North Dakota resident"], "value": "Varies; potentially $1,000-$5,000+ annually", "howToApply": "Claim exemption on North Dakota state tax return.", "residenceRequired": true}
+  ],
+  "Ohio": [
+    {"id": "oh_property_tax", "title": "Homestead Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "Ohio provides homestead exemptions for disabled veterans. Veterans with 100% service-connected disability receive a complete property tax exemption on their primary residence.", "eligibility": ["Ohio resident", "100% service-connected disability", "Honorable discharge", "Property is homestead"], "value": "$500-$3,000+ annually (complete exemption)", "howToApply": "File with county auditor. Submit DD214 and VA disability award letter showing 100%.", "residenceRequired": true},
+    {"id": "oh_tuition", "title": "Ohio War Orphans & Severely Disabled Veterans' Children Scholarship", "category": "Education", "shortDescription": "Tuition waiver for children of disabled/deceased veterans", "fullDescription": "Ohio provides full tuition waivers for children of disabled or deceased Ohio veterans at Ohio public colleges and universities.", "eligibility": ["Child of qualifying Ohio veteran", "Veteran 60%+ disabled, killed in action, or died from service-connected cause", "Ohio resident", "Admitted to Ohio public institution"], "value": "$8,000-$12,000 annually (full tuition)", "howToApply": "Apply through Ohio Department of Higher Education. Submit veteran's DD214, VA rating, and relationship documentation.", "residenceRequired": true},
+    {"id": "oh_hunting_fishing", "title": "Free Lifetime Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free lifetime licenses for disabled veterans", "fullDescription": "Ohio residents who are disabled veterans receive free lifetime hunting, fishing, and trapping licenses including various permits and stamps.", "eligibility": ["Ohio resident", "Service-connected disability (any percentage)", "Honorable discharge"], "value": "$60+ annually, lifetime value $2,000+", "howToApply": "Apply through Ohio DNR. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "oh_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Ohio offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Ohio vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Ohio BMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "oh_income_tax", "title": "Military Retirement Pay Deduction", "category": "Tax Benefits", "shortDescription": "Full deduction of military retirement pay", "fullDescription": "Ohio allows a complete deduction of military retirement pay and VA disability compensation from state income tax.", "eligibility": ["Receiving military retirement or VA disability pay", "Ohio resident"], "value": "Varies; potentially $1,000-$5,000+ annually", "howToApply": "Claim deduction on Ohio state tax return.", "residenceRequired": true}
+  ],
+  "Oklahoma": [
+    {"id": "ok_property_tax", "title": "100% Disabled Veterans Property Tax Exemption", "category": "Property Tax", "shortDescription": "Complete property tax exemption for 100% disabled veterans", "fullDescription": "Oklahoma provides a complete property tax exemption for 100% service-connected disabled veterans on their primary residence. Additionally, veterans receive a $1,000 additional homestead exemption.", "eligibility": ["Oklahoma resident", "100% service-connected disability", "Honorable discharge", "Property is homestead"], "value": "$500-$3,000+ annually (complete exemption)", "howToApply": "File with county assessor. Submit DD214 and VA disability award letter showing 100%.", "residenceRequired": true},
+    {"id": "ok_tuition", "title": "Oklahoma Tuition Waiver for Veterans", "category": "Education", "shortDescription": "Tuition waiver at Oklahoma public colleges", "fullDescription": "Oklahoma provides tuition waivers for certain veterans and dependents at Oklahoma public colleges and universities.", "eligibility": ["Oklahoma resident veteran OR dependent of 100% disabled/deceased veteran", "Admitted to Oklahoma public institution"], "value": "$4,000-$8,000 annually", "howToApply": "Contact Oklahoma State Regents for Higher Education and school financial aid office.", "residenceRequired": true},
+    {"id": "ok_hunting_fishing", "title": "Free Lifetime Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free lifetime licenses for disabled veterans", "fullDescription": "Oklahoma residents who are 100% permanently disabled veterans receive free lifetime hunting and fishing licenses.", "eligibility": ["Oklahoma resident", "100% permanent disability", "Honorable discharge"], "value": "$60+ annually, lifetime value $1,800+", "howToApply": "Apply through Oklahoma Department of Wildlife Conservation. Provide VA rating showing 100% P&T.", "residenceRequired": true},
+    {"id": "ok_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Oklahoma offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Oklahoma vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Oklahoma Service Oklahoma with VA disability award letter.", "residenceRequired": true},
+    {"id": "ok_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Full exemption of military retirement pay", "fullDescription": "Oklahoma fully exempts military retirement pay and VA disability compensation from state income tax.", "eligibility": ["Receiving military retirement or VA disability pay", "Oklahoma resident"], "value": "Varies; potentially $1,000-$5,000+ annually", "howToApply": "Claim exemption on Oklahoma state tax return.", "residenceRequired": true}
+  ],
+  "Oregon": [
+    {"id": "or_property_tax", "title": "Disabled Veterans Property Tax Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "Oregon provides property tax exemptions for disabled veterans. Veterans with 40% or higher service-connected disability receive exemptions on their primary residence, with higher exemptions for higher disability ratings.", "eligibility": ["Oregon resident", "40% or higher service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$500-$3,000+ annually depending on disability rating", "howToApply": "File with county assessor by April 1st. Submit DD214 and VA disability award letter showing 40%+.", "residenceRequired": true},
+    {"id": "or_tuition", "title": "Oregon Veteran Educational Aid", "category": "Education", "shortDescription": "Educational assistance for veterans", "fullDescription": "Oregon provides educational assistance for veterans attending Oregon colleges and universities through various programs and tuition assistance.", "eligibility": ["Oregon resident veteran", "Honorable discharge", "Admitted to Oregon institution"], "value": "$2,000-$5,000 annually", "howToApply": "Contact Oregon Department of Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "or_hunting_fishing", "title": "Free Pioneer Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "Oregon residents who are disabled veterans can receive free or reduced-cost hunting and fishing licenses.", "eligibility": ["Oregon resident", "Service-connected disability", "Honorable discharge"], "value": "$40-$80 annually", "howToApply": "Apply through Oregon Department of Fish and Wildlife. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "or_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Oregon offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces and free metered parking.", "eligibility": ["Service-connected disability", "Oregon vehicle registration"], "value": "Free metered parking and parking privileges", "howToApply": "Apply at Oregon DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "or_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Partial exemption of military retirement pay", "fullDescription": "Oregon provides a partial exemption for military retirement pay from state income tax. Up to $15,000 can be excluded.", "eligibility": ["Receiving military retirement pay", "Oregon resident"], "value": "Up to $750-$1,500 annually in tax savings", "howToApply": "Claim exemption on Oregon state tax return.", "residenceRequired": true}
+  ],
+  "Pennsylvania": [
+    {"id": "pa_property_tax", "title": "Property Tax Exemption for Disabled Veterans", "category": "Property Tax", "shortDescription": "Property tax exemption for 100% disabled veterans", "fullDescription": "Pennsylvania provides property tax exemptions for 100% service-connected disabled veterans on their primary residence. The dwelling house exemption can eliminate property taxes.", "eligibility": ["Pennsylvania resident", "100% service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$500-$3,000+ annually (potentially complete exemption)", "howToApply": "File with county assessment office. Submit DD214 and VA disability award letter showing 100%.", "residenceRequired": true},
+    {"id": "pa_tuition", "title": "Educational Gratuity for Veterans' Dependents", "category": "Education", "shortDescription": "Educational assistance for children of disabled/deceased veterans", "fullDescription": "Pennsylvania provides educational assistance (Educational Gratuity Program) for children of honorably discharged Pennsylvania veterans who are 100% disabled or killed in action.", "eligibility": ["Child of qualifying Pennsylvania veteran", "Veteran 100% disabled or KIA", "Pennsylvania resident", "Admitted to Pennsylvania institution"], "value": "$500 per semester", "howToApply": "Apply through Pennsylvania Department of Military and Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "pa_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "Pennsylvania residents who are disabled veterans can receive free or reduced-cost hunting and fishing licenses. 100% disabled veterans receive free licenses.", "eligibility": ["Pennsylvania resident", "Service-connected disability", "Honorable discharge"], "value": "$30-$60 annually", "howToApply": "Apply through Pennsylvania Fish and Boat Commission or Game Commission. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "pa_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Pennsylvania offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Pennsylvania vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at PennDOT with VA disability award letter.", "residenceRequired": true},
+    {"id": "pa_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Full exemption of military retirement pay", "fullDescription": "Pennsylvania fully exempts military retirement pay and VA disability compensation from state income tax.", "eligibility": ["Receiving military retirement or VA disability pay", "Pennsylvania resident"], "value": "Varies; potentially $1,000-$5,000+ annually", "howToApply": "Claim exemption on Pennsylvania state tax return.", "residenceRequired": true}
+  ],
+  "Rhode Island": [
+    {"id": "ri_property_tax", "title": "Veterans Property Tax Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for veterans", "fullDescription": "Rhode Island provides property tax exemptions for veterans with service-connected disabilities. The exemption amount varies based on disability percentage.", "eligibility": ["Rhode Island resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$100-$500+ annually depending on disability rating", "howToApply": "File with city or town assessor. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "ri_tuition", "title": "Tuition Waiver for Veterans", "category": "Education", "shortDescription": "Tuition waiver at RI public colleges", "fullDescription": "Rhode Island provides tuition waivers for certain veterans and dependents at Rhode Island public colleges and universities.", "eligibility": ["Rhode Island resident veteran", "Honorable discharge", "Admitted to RI public institution"], "value": "$8,000-$12,000 annually", "howToApply": "Contact Rhode Island Office of Veterans Services and school financial aid office.", "residenceRequired": true},
+    {"id": "ri_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for 100% disabled veterans", "fullDescription": "Rhode Island residents who are 100% permanently disabled veterans receive free hunting and fishing licenses.", "eligibility": ["Rhode Island resident", "100% permanent disability", "Honorable discharge"], "value": "$50+ annually", "howToApply": "Apply through RI Department of Environmental Management. Provide VA rating showing 100% P&T.", "residenceRequired": true},
+    {"id": "ri_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Rhode Island offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Rhode Island vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Rhode Island DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "ri_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Full exemption of military retirement pay", "fullDescription": "Rhode Island fully exempts military retirement pay and VA disability compensation from state income tax.", "eligibility": ["Receiving military retirement or VA disability pay", "Rhode Island resident"], "value": "Varies; potentially $1,000-$5,000+ annually", "howToApply": "Claim exemption on Rhode Island state tax return.", "residenceRequired": true}
+  ],
+  "South Carolina": [
+    {"id": "sc_property_tax", "title": "Property Tax Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "South Carolina provides property tax exemptions for disabled veterans. Veterans with service-connected disabilities receive exemptions on their primary residence, with a complete exemption for those who are totally and permanently disabled.", "eligibility": ["South Carolina resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$200-$2,000+ annually, complete exemption for 100% disabled", "howToApply": "File with county auditor. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "sc_tuition", "title": "Free Tuition for Children of Veterans", "category": "Education", "shortDescription": "Free tuition for children of disabled/deceased veterans", "fullDescription": "South Carolina provides free tuition for children of veterans who were killed in action, died from service-connected causes, POW, MIA, or 100% permanently disabled at South Carolina public colleges and universities.", "eligibility": ["Child of qualifying veteran", "Veteran KIA, died from service, POW, MIA, or 100% P&T disabled", "South Carolina resident", "Admitted to SC public institution"], "value": "$10,000-$15,000 annually (full tuition and fees)", "howToApply": "Contact South Carolina Division of Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "sc_hunting_fishing", "title": "Free Lifetime Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free lifetime licenses for 100% disabled veterans", "fullDescription": "South Carolina residents who are 100% permanently disabled veterans receive free lifetime combination hunting and fishing licenses.", "eligibility": ["South Carolina resident", "100% permanent disability", "Honorable discharge"], "value": "$60+ annually, lifetime value $1,800+", "howToApply": "Apply through SC DNR. Provide VA rating showing 100% P&T.", "residenceRequired": true},
+    {"id": "sc_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "South Carolina offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "South Carolina vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at SC DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "sc_income_tax", "title": "Military Retirement Pay Deduction", "category": "Tax Benefits", "shortDescription": "Deduction for military retirement pay", "fullDescription": "South Carolina provides a deduction for military retirement pay from state income tax. Up to $17,500 can be deducted for veterans under 65.", "eligibility": ["Receiving military retirement pay", "South Carolina resident"], "value": "Up to $875 annually in tax savings", "howToApply": "Claim deduction on South Carolina state tax return.", "residenceRequired": true}
+  ],
+  "South Dakota": [
+    {"id": "sd_property_tax", "title": "Property Tax Reduction", "category": "Property Tax", "shortDescription": "Property tax reduction for disabled veterans", "fullDescription": "South Dakota provides property tax reductions for disabled veterans. Veterans with 100% service-connected disability or total disability receive property tax relief on their primary residence.", "eligibility": ["South Dakota resident", "100% service-connected disability OR total disability", "Honorable discharge", "Property is primary residence"], "value": "$200-$1,500+ annually", "howToApply": "File with county director of equalization. Submit DD214 and VA disability award letter showing 100%.", "residenceRequired": true},
+    {"id": "sd_tuition", "title": "Free Tuition for Dependents", "category": "Education", "shortDescription": "Free tuition for children of deceased veterans", "fullDescription": "South Dakota provides free tuition for dependents of veterans who died in service or from service-connected causes at South Dakota public universities.", "eligibility": ["Child of qualifying veteran", "Veteran died in service or from service-connected cause", "South Dakota resident", "Admitted to SD public institution"], "value": "$6,000-$10,000 annually", "howToApply": "Contact South Dakota Department of Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "sd_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "South Dakota residents who are disabled veterans receive free hunting and fishing licenses.", "eligibility": ["South Dakota resident", "Service-connected disability", "Honorable discharge"], "value": "$40+ annually", "howToApply": "Apply through SD Game, Fish and Parks. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "sd_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "South Dakota offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "South Dakota vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at SD Department of Revenue with VA disability award letter.", "residenceRequired": true},
+    {"id": "sd_income_tax", "title": "No State Income Tax", "category": "Tax Benefits", "shortDescription": "South Dakota has no state income tax", "fullDescription": "South Dakota does not have a state income tax, so all income including military retirement pay and VA disability compensation is not taxed at the state level.", "eligibility": ["South Dakota resident"], "value": "Significant tax savings compared to states with income tax", "howToApply": "No application required - South Dakota has no state income tax.", "residenceRequired": true}
+  ],
+  "Tennessee": [
+    {"id": "tn_property_tax", "title": "Property Tax Relief for Disabled Veterans", "category": "Property Tax", "shortDescription": "Property tax relief for disabled veterans", "fullDescription": "Tennessee provides property tax relief for disabled veterans. Veterans with 100% permanent and total disability receive significant property tax reductions or exemptions on their primary residence.", "eligibility": ["Tennessee resident", "100% permanent and total disability", "Honorable discharge", "Property is primary residence"], "value": "$200-$2,000+ annually", "howToApply": "File with county trustee or assessor. Submit DD214 and VA disability award letter showing 100% P&T.", "residenceRequired": true},
+    {"id": "tn_tuition", "title": "Tuition Assistance for Dependents", "category": "Education", "shortDescription": "Tuition assistance for children of disabled/deceased veterans", "fullDescription": "Tennessee provides tuition assistance for dependents of Tennessee veterans who died in service or are 100% permanently disabled at Tennessee public colleges and universities.", "eligibility": ["Child of qualifying Tennessee veteran", "Veteran died in service or 100% P&T disabled", "Tennessee resident", "Admitted to TN public institution"], "value": "$4,000-$8,000 annually", "howToApply": "Contact Tennessee Department of Veterans Services and school financial aid office.", "residenceRequired": true},
+    {"id": "tn_hunting_fishing", "title": "Free Lifetime Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free lifetime licenses for 100% disabled veterans", "fullDescription": "Tennessee residents who are 100% permanently disabled veterans receive free lifetime hunting and fishing licenses.", "eligibility": ["Tennessee resident", "100% permanent disability", "Honorable discharge"], "value": "$60+ annually, lifetime value $1,800+", "howToApply": "Apply through Tennessee Wildlife Resources Agency. Provide VA rating showing 100% P&T.", "residenceRequired": true},
+    {"id": "tn_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Tennessee offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Tennessee vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Tennessee County Clerk with VA disability award letter.", "residenceRequired": true},
+    {"id": "tn_income_tax", "title": "No Earned Income Tax", "category": "Tax Benefits", "shortDescription": "No tax on wages or military retirement", "fullDescription": "Tennessee does not have a state income tax on earned income or wages, which includes military retirement pay and VA disability compensation.", "eligibility": ["Tennessee resident"], "value": "Significant tax savings on income", "howToApply": "No application required - Tennessee has no income tax on wages.", "residenceRequired": true}
+  ],
+  "Texas": [
+    {"id": "tx_property_tax", "title": "Property Tax Exemption", "category": "Property Tax", "shortDescription": "Substantial property tax exemptions for disabled veterans", "fullDescription": "Texas provides generous property tax exemptions for disabled veterans. Veterans with 10% or higher service-connected disability receive exemptions ranging from $5,000 to complete exemption for 100% disabled veterans. The exemption applies to primary residence homestead.", "eligibility": ["Texas resident", "Service-connected disability (10% minimum)", "Honorable discharge", "Property is homestead"], "value": "$500-$6,000+ annually depending on disability rating (complete exemption for 100%)", "howToApply": "File with county appraisal district by April 30th. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "tx_tuition", "title": "Hazlewood Act Tuition Exemption", "category": "Education", "shortDescription": "Free tuition at Texas public colleges for veterans and dependents", "fullDescription": "Texas provides tuition and fee exemptions through the Hazlewood Act for eligible Texas veterans at public colleges and universities. Veterans can also transfer unused benefits to dependents. Covers up to 150 semester credit hours.", "eligibility": ["Texas resident at time of entry into service", "Veteran with honorable discharge", "Eligible dependent if veteran transfers benefit", "Admitted to Texas public institution"], "value": "$8,000-$15,000 annually (full tuition and fees)", "howToApply": "Apply through Texas Veterans Commission for Hazlewood Exemption Letter. Submit to school with DD214.", "residenceRequired": true},
+    {"id": "tx_hunting_fishing", "title": "Super Combo Hunting & Fishing License", "category": "Recreation", "shortDescription": "Discount licenses for disabled veterans", "fullDescription": "Texas offers discounted Super Combo hunting and fishing licenses for disabled veterans. Includes hunting and fishing privileges at reduced rates.", "eligibility": ["Texas resident", "Service-connected disability", "Honorable discharge"], "value": "50% discount, saving $30-$60 annually", "howToApply": "Purchase at Texas Parks and Wildlife locations. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "tx_drivers_license", "title": "Free Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "Free DV plates with parking privileges", "fullDescription": "Texas offers free disabled veteran license plates that provide parking privileges in designated disabled spaces and free parking at metered spaces in many Texas cities.", "eligibility": ["Service-connected disability", "Texas vehicle registration"], "value": "Free plates and metered parking (saving $20+ per plate renewal and parking fees)", "howToApply": "Apply at Texas DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "tx_income_tax", "title": "No State Income Tax", "category": "Tax Benefits", "shortDescription": "Texas has no state income tax", "fullDescription": "Texas does not have a state income tax, so all income including military retirement pay, VA disability compensation, and wages is not taxed at the state level.", "eligibility": ["Texas resident"], "value": "Significant tax savings - no state income tax on any income", "howToApply": "No application required - Texas has no state income tax.", "residenceRequired": true}
+  ],
+  "Utah": [
+    {"id": "ut_property_tax", "title": "Veterans Property Tax Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "Utah provides property tax exemptions for disabled veterans. The exemption amount varies based on disability percentage and household income.", "eligibility": ["Utah resident", "Service-connected disability", "Honorable discharge", "Meet income requirements", "Property is primary residence"], "value": "$200-$1,500+ annually depending on disability rating", "howToApply": "File with county auditor. Submit DD214, VA disability award letter, and income documentation.", "residenceRequired": true},
+    {"id": "ut_tuition", "title": "Purple Heart & Disabled Veteran Tuition Waiver", "category": "Education", "shortDescription": "Tuition waiver for Purple Heart recipients and disabled veterans", "fullDescription": "Utah provides tuition waivers for Purple Heart recipients and veterans with 30% or higher service-connected disability at Utah public colleges and universities.", "eligibility": ["Purple Heart recipient OR 30%+ service-connected disability", "Utah resident", "Admitted to Utah public institution"], "value": "$5,000-$10,000 annually", "howToApply": "Contact Utah Department of Veterans and Military Affairs and school financial aid office. Submit Purple Heart documentation or VA disability letter showing 30%+.", "residenceRequired": true},
+    {"id": "ut_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "Utah residents who are disabled veterans receive free hunting and fishing licenses.", "eligibility": ["Utah resident", "Service-connected disability", "Honorable discharge"], "value": "$50+ annually", "howToApply": "Apply through Utah Division of Wildlife Resources. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "ut_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Utah offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Utah vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Utah DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "ut_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Partial exemption of military retirement pay", "fullDescription": "Utah provides a partial exemption for military retirement pay from state income tax, with specific rules based on age and service.", "eligibility": ["Receiving military retirement pay", "Utah resident"], "value": "Varies; potentially $500-$2,000+ annually", "howToApply": "Claim exemption on Utah state tax return.", "residenceRequired": true}
+  ],
+  "Vermont": [
+    {"id": "vt_property_tax", "title": "Veterans Property Tax Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "Vermont provides property tax exemptions for disabled veterans. Veterans with service-connected disabilities receive exemptions on their primary residence based on disability percentage.", "eligibility": ["Vermont resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$100-$500+ annually depending on disability rating", "howToApply": "File with town listers or assessors by October 1st. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "vt_tuition", "title": "Tuition Waiver for Veterans", "category": "Education", "shortDescription": "Tuition assistance at Vermont public colleges", "fullDescription": "Vermont provides tuition assistance for certain veterans and dependents at Vermont State Colleges and University of Vermont.", "eligibility": ["Vermont resident veteran", "Honorable discharge", "Admitted to Vermont public institution"], "value": "$5,000-$10,000 annually", "howToApply": "Contact Vermont Office of Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "vt_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "Vermont residents who are disabled veterans receive free hunting and fishing licenses.", "eligibility": ["Vermont resident", "Service-connected disability", "Honorable discharge"], "value": "$50+ annually", "howToApply": "Apply through Vermont Fish and Wildlife. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "vt_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Vermont offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Vermont vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Vermont DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "vt_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Partial exemption of military retirement pay", "fullDescription": "Vermont provides a partial exemption for military retirement pay from state income tax for qualifying retirees.", "eligibility": ["Receiving military retirement pay", "Vermont resident"], "value": "Varies; potentially $500-$2,000+ annually", "howToApply": "Claim exemption on Vermont state tax return.", "residenceRequired": true}
+  ],
+  "Virginia": [
+    {"id": "va_property_tax", "title": "Real Property Tax Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "Virginia provides property tax exemptions for disabled veterans on their primary residence. Veterans with 100% service-connected disability receive a complete exemption. Those with lower ratings may receive partial exemptions depending on locality.", "eligibility": ["Virginia resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$500-$4,000+ annually (complete exemption for 100% disabled)", "howToApply": "File with local commissioner of revenue. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "va_tuition", "title": "Virginia Military Survivors & Dependents Education Program", "category": "Education", "shortDescription": "Free tuition for dependents of disabled/deceased veterans", "fullDescription": "Virginia provides free tuition, room, board, and books for surviving spouses and children of veterans who died in service, were killed in action, or are 100% permanently disabled at Virginia public colleges and universities.", "eligibility": ["Child or spouse of qualifying veteran", "Veteran died in service, KIA, or 100% P&T disabled", "Virginia resident", "Admitted to Virginia public institution"], "value": "$15,000-$25,000 annually (includes tuition, room, board, books)", "howToApply": "Apply through Virginia Department of Veterans Services. Submit veteran's DD214, VA rating, and relationship documentation.", "residenceRequired": true},
+    {"id": "va_hunting_fishing", "title": "Free Lifetime Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free lifetime licenses for 100% disabled veterans", "fullDescription": "Virginia residents who are 100% permanently and totally disabled veterans receive free lifetime hunting, freshwater fishing, and trapping licenses.", "eligibility": ["Virginia resident", "100% permanent and total disability", "Honorable discharge"], "value": "$60+ annually, lifetime value $2,000+", "howToApply": "Apply through Virginia Department of Wildlife Resources. Provide VA rating showing 100% P&T.", "residenceRequired": true},
+    {"id": "va_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Virginia offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Virginia vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Virginia DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "va_income_tax", "title": "Military Retirement Pay Subtraction", "category": "Tax Benefits", "shortDescription": "Subtraction for military retirement pay", "fullDescription": "Virginia allows a subtraction of up to $10,000 of military retirement pay from state taxable income for qualifying retirees age 55 and older.", "eligibility": ["Age 55+", "Receiving military retirement pay", "Virginia resident"], "value": "Up to $500-$575 annually in tax savings", "howToApply": "Claim subtraction on Virginia state tax return.", "residenceRequired": true}
+  ],
+  "Washington": [
+    {"id": "wa_property_tax", "title": "Property Tax Exemption for Disabled Veterans", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "Washington provides property tax exemptions for disabled veterans. Veterans with 80% or higher combined disability rating (service and non-service connected) or receiving VA pension for unemployability receive exemptions on their primary residence.", "eligibility": ["Washington resident", "80% or higher combined disability OR VA pension for unemployability", "Honorable discharge", "Property is primary residence"], "value": "$500-$3,000+ annually", "howToApply": "File with county assessor by December 31st. Submit DD214 and VA disability award letter showing combined 80%+ rating.", "residenceRequired": true},
+    {"id": "wa_tuition", "title": "State Tuition Waiver for Veterans", "category": "Education", "shortDescription": "Tuition waiver at Washington public colleges", "fullDescription": "Washington provides tuition waivers for eligible veterans and dependents of 100% disabled or deceased veterans at Washington public colleges and universities.", "eligibility": ["Washington resident veteran OR dependent of 100% disabled/deceased veteran", "Admitted to Washington public institution"], "value": "$8,000-$12,000 annually", "howToApply": "Contact Washington Department of Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "wa_hunting_fishing", "title": "Disabled Veteran Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Reduced or free licenses for disabled veterans", "fullDescription": "Washington residents who are disabled veterans receive reduced-cost or free hunting and fishing licenses based on disability level.", "eligibility": ["Washington resident", "Service-connected disability", "Honorable discharge"], "value": "$40-$80 annually", "howToApply": "Apply through Washington Dept of Fish and Wildlife. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "wa_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Washington offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Washington vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Washington DOL with VA disability award letter.", "residenceRequired": true},
+    {"id": "wa_income_tax", "title": "No State Income Tax", "category": "Tax Benefits", "shortDescription": "Washington has no state income tax", "fullDescription": "Washington does not have a state income tax, so all income including military retirement pay and VA disability compensation is not taxed at the state level.", "eligibility": ["Washington resident"], "value": "Significant tax savings compared to states with income tax", "howToApply": "No application required - Washington has no state income tax.", "residenceRequired": true}
+  ],
+  "West Virginia": [
+    {"id": "wv_property_tax", "title": "Homestead Exemption for Disabled Veterans", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "West Virginia provides homestead property tax exemptions for disabled veterans. Veterans with 50% or higher service-connected disability receive exemptions on their primary residence.", "eligibility": ["West Virginia resident", "50% or higher service-connected disability", "Honorable discharge", "Property is homestead"], "value": "$200-$1,500+ annually", "howToApply": "File with county assessor. Submit DD214 and VA disability award letter showing 50%+.", "residenceRequired": true},
+    {"id": "wv_tuition", "title": "Veterans Re-Education Scholarship", "category": "Education", "shortDescription": "Tuition assistance for veterans", "fullDescription": "West Virginia provides tuition assistance for eligible West Virginia veterans at West Virginia public colleges and universities.", "eligibility": ["West Virginia resident veteran", "Honorable discharge", "Admitted to WV public institution"], "value": "$3,000-$6,000 annually", "howToApply": "Contact West Virginia Department of Veterans Assistance and school financial aid office.", "residenceRequired": true},
+    {"id": "wv_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for 100% disabled veterans", "fullDescription": "West Virginia residents who are 100% permanently disabled veterans receive free hunting and fishing licenses.", "eligibility": ["West Virginia resident", "100% permanent disability", "Honorable discharge"], "value": "$50+ annually", "howToApply": "Apply through WV Division of Natural Resources. Provide VA rating showing 100% P&T.", "residenceRequired": true},
+    {"id": "wv_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "West Virginia offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "West Virginia vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at WV DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "wv_income_tax", "title": "Military Retirement Pay Exemption", "category": "Tax Benefits", "shortDescription": "Full exemption of military retirement pay", "fullDescription": "West Virginia fully exempts military retirement pay and VA disability compensation from state income tax.", "eligibility": ["Receiving military retirement or VA disability pay", "West Virginia resident"], "value": "Varies; potentially $1,000-$5,000+ annually", "howToApply": "Claim exemption on West Virginia state tax return.", "residenceRequired": true}
+  ],
+  "Wisconsin": [
+    {"id": "wi_property_tax", "title": "Veterans Property Tax Credit", "category": "Property Tax", "shortDescription": "Property tax credit for disabled veterans", "fullDescription": "Wisconsin provides property tax credits for disabled veterans. The credit amount varies based on disability percentage and property value, with 100% disabled veterans receiving the highest credits.", "eligibility": ["Wisconsin resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$200-$1,500+ annually depending on disability rating", "howToApply": "File with Wisconsin Department of Revenue. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "wi_tuition", "title": "Wisconsin GI Bill Tuition Remission", "category": "Education", "shortDescription": "Tuition remission for veterans and dependents", "fullDescription": "Wisconsin provides tuition remission for eligible veterans and dependents of disabled or deceased veterans at University of Wisconsin System and Wisconsin Technical College System schools. Covers full tuition and fees.", "eligibility": ["Wisconsin resident veteran OR dependent of 30%+ disabled/deceased veteran", "Admitted to UW or WTCS institution"], "value": "$8,000-$12,000 annually (full tuition remission)", "howToApply": "Contact Wisconsin Department of Veterans Affairs and school financial aid office. Submit DD214 or veteran's documentation.", "residenceRequired": true},
+    {"id": "wi_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "Wisconsin residents who are disabled veterans receive free hunting, fishing, and trapping licenses. Specific eligibility based on disability level.", "eligibility": ["Wisconsin resident", "Service-connected disability", "Honorable discharge"], "value": "$50+ annually", "howToApply": "Apply through Wisconsin DNR. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "wi_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Wisconsin offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces and free parking at meters in some municipalities.", "eligibility": ["Service-connected disability", "Wisconsin vehicle registration"], "value": "Potential free metered parking and parking privileges", "howToApply": "Apply at Wisconsin DMV with VA disability award letter.", "residenceRequired": true},
+    {"id": "wi_income_tax", "title": "Military Retirement Pay Subtraction", "category": "Tax Benefits", "shortDescription": "Subtraction for military retirement pay", "fullDescription": "Wisconsin allows a subtraction of military retirement pay from state taxable income for qualifying retirees.", "eligibility": ["Receiving military retirement pay", "Wisconsin resident"], "value": "Varies; potentially $500-$2,500+ annually", "howToApply": "Claim subtraction on Wisconsin state tax return.", "residenceRequired": true}
+  ],
+  "Wyoming": [
+    {"id": "wy_property_tax", "title": "Property Tax Exemption", "category": "Property Tax", "shortDescription": "Property tax exemption for disabled veterans", "fullDescription": "Wyoming provides property tax exemptions for disabled veterans. Veterans with service-connected disabilities receive exemptions on a portion of their primary residence value, with the amount based on disability percentage.", "eligibility": ["Wyoming resident", "Service-connected disability", "Honorable discharge", "Property is primary residence"], "value": "$200-$1,500+ annually depending on disability rating", "howToApply": "File with county assessor. Submit DD214 and VA disability award letter.", "residenceRequired": true},
+    {"id": "wy_tuition", "title": "Veterans Education Benefit", "category": "Education", "shortDescription": "Tuition assistance for veterans", "fullDescription": "Wyoming provides tuition assistance for Wyoming veterans at University of Wyoming and Wyoming community colleges.", "eligibility": ["Wyoming resident veteran", "Honorable discharge", "Admitted to Wyoming public institution"], "value": "$3,000-$6,000 annually", "howToApply": "Contact Wyoming Department of Veterans Affairs and school financial aid office.", "residenceRequired": true},
+    {"id": "wy_hunting_fishing", "title": "Free Hunting & Fishing Licenses", "category": "Recreation", "shortDescription": "Free licenses for disabled veterans", "fullDescription": "Wyoming residents who are disabled veterans receive free hunting and fishing licenses.", "eligibility": ["Wyoming resident", "Service-connected disability", "Honorable discharge"], "value": "$50+ annually", "howToApply": "Apply through Wyoming Game and Fish. Provide VA disability award letter.", "residenceRequired": true},
+    {"id": "wy_license_plates", "title": "Disabled Veteran License Plates", "category": "Transportation", "shortDescription": "DV plates with parking privileges", "fullDescription": "Wyoming offers disabled veteran license plates that provide parking privileges in designated disabled parking spaces.", "eligibility": ["Service-connected disability", "Wyoming vehicle registration"], "value": "Parking privileges", "howToApply": "Apply at Wyoming County Treasurer with VA disability award letter.", "residenceRequired": true},
+    {"id": "wy_income_tax", "title": "No State Income Tax", "category": "Tax Benefits", "shortDescription": "Wyoming has no state income tax", "fullDescription": "Wyoming does not have a state income tax, so all income including military retirement pay and VA disability compensation is not taxed at the state level.", "eligibility": ["Wyoming resident"], "value": "Significant tax savings compared to states with income tax", "howToApply": "No application required - Wyoming has no state income tax.", "residenceRequired": true}
+  ]
+}
