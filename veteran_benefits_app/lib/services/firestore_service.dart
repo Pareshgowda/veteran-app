@@ -96,6 +96,17 @@ class FirestoreService {
     }
   }
 
+  // Update photo URL
+  Future<void> updatePhotoUrl(String uid, String? photoUrl) async {
+    try {
+      await _usersCollection.doc(uid).update({
+        'photoUrl': photoUrl,
+      });
+    } catch (e) {
+      throw 'Failed to update photo URL: $e';
+    }
+  }
+
   // Check if condition is saved
   Future<bool> isConditionSaved(String uid, String conditionId) async {
     try {

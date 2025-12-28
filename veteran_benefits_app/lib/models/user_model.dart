@@ -7,6 +7,7 @@ class UserModel {
   final String tier; // "free" or "premium"
   final DateTime createdAt;
   final List<String> savedConditions;
+  final String? photoUrl;
 
   UserModel({
     required this.uid,
@@ -15,6 +16,7 @@ class UserModel {
     required this.tier,
     required this.createdAt,
     required this.savedConditions,
+    this.photoUrl,
   });
 
   // Check if user is premium
@@ -36,6 +38,7 @@ class UserModel {
       tier: data['tier'] ?? 'free',
       createdAt: (data['createdAt'] as Timestamp?)?.toDate() ?? DateTime.now(),
       savedConditions: List<String>.from(data['savedConditions'] ?? []),
+      photoUrl: data['photoUrl'],
     );
   }
 
@@ -48,6 +51,7 @@ class UserModel {
       'tier': tier,
       'createdAt': Timestamp.fromDate(createdAt),
       'savedConditions': savedConditions,
+      'photoUrl': photoUrl,
     };
   }
 
@@ -59,6 +63,7 @@ class UserModel {
     String? tier,
     DateTime? createdAt,
     List<String>? savedConditions,
+    String? photoUrl,
   }) {
     return UserModel(
       uid: uid ?? this.uid,
@@ -67,6 +72,7 @@ class UserModel {
       tier: tier ?? this.tier,
       createdAt: createdAt ?? this.createdAt,
       savedConditions: savedConditions ?? this.savedConditions,
+      photoUrl: photoUrl ?? this.photoUrl,
     );
   }
 

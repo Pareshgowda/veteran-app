@@ -1,5 +1,8 @@
+import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:path_provider/path_provider.dart';
+import 'package:path/path.dart' as path;
 import '../models/user_model.dart';
 import '../services/auth_service.dart';
 import '../services/firestore_service.dart';
@@ -156,6 +159,62 @@ class AuthController {
     final user = _ref.read(currentUserProvider);
     if (user != null) {
       await _firestoreService.updateUserTier(user.uid, 'premium');
+    }
+  }
+
+  // Upload Profile Photo (Save Locally)
+  Future<String?> uploadProfilePhoto(File imageFile) async {
+    final user = _ref.read(currentUserProvider);
+    if (user == null) return null;
+
+    try {
+      // Get the app's documents directory
+      final Directory appDir = await getApplicationDocumentsDirectory();
+
+      // Create profile_photos directory if it doesn't exist
+      final Directory profilePhotosDir = Directory(path.join(appDir.path, 'profile_photos'));
+      if (!await profilePhotosDir.exists()) {
+        await profilePhotosDir.create(recursive: true);
+      }
+
+      // Create local file path
+      final String fileName = '${user.uid}.jpg';
+      final String localPath = path.join(profilePhotosDir.path, fileName);
+
+      // Copy the image file to local storage
+      final File localFile = await imageFile.copy(localPath);
+
+      // Update Firestore with the local file path
+      await _firestoreService.updatePhotoUrl(user.uid, localFile.path);
+
+      return localFile.path;
+    } catch (e) {
+      print('Error saving profile photo locally: $e');
+      return null;
+    }
+  }
+
+  // Remove Profile Photo
+  Future<void> removeProfilePhoto() async {
+    final user = _ref.read(currentUserProvider);
+    if (user == null) return;
+
+    try {
+      // Get the current photo URL from Firestore
+      final userData = await _firestoreService.getUserDocument(user.uid);
+
+      if (userData?.photoUrl != null) {
+        // Delete local file if it exists
+        final File localFile = File(userData!.photoUrl!);
+        if (await localFile.exists()) {
+          await localFile.delete();
+        }
+      }
+
+      // Update Firestore to remove photo URL
+      await _firestoreService.updatePhotoUrl(user.uid, null);
+    } catch (e) {
+      print('Error removing profile photo: $e');
     }
   }
 }
