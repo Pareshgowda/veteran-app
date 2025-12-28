@@ -5,7 +5,9 @@
       "Bash(flutter create:*)",
       "Bash(tree:*)",
       "Bash(flutter pub get:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git commit:*)",
+      "Bash(git add:*)"
     ]
   }
 }
